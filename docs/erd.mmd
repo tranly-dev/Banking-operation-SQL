@@ -1,0 +1,69 @@
+erDiagram
+  MA_LOAIHINH_TSBD {
+    int ID
+    string MA_LOAI
+    string TENLOAI
+  }
+  MA_KHU_VUC {
+    int ID
+    string MA_KHUVUC
+    string TEN_KHUVUC
+  }
+  MA_LOAI_HINH_DOANHNGHIEP {
+    int ID
+    string MA_LOAIHINH
+    string TEN_LOAIHINH
+  }
+  MA_NGANHNGHE {
+    int ID
+    string MA_NGANH
+    string TEN_NGANH
+  }
+  MA_THANHPHO {
+    int ID
+    string MA_TP
+    string TEN_TP
+  }
+  MA_CHINHANH {
+    int ID
+    string MA_CN
+    string TEN_CN
+    string MA_KHUVUC
+  }
+  KHACH_HANG {
+    int MA_KH
+    string TEN_KH
+    string NGAYSINH
+    string GIOITINH
+    string MA_CN
+    string MA_TP
+  }
+  TIENGUI_TIETKIEM {
+    int MA_SO
+    int MA_KH
+    string NGAY_MO_SO
+    string NGAY_DAOHAN
+    decimal SOTIEN_GUI
+    decimal LAISUAT
+  }
+  HOPDONG_TINDUNG {
+    int MA_HOPDONG
+    int MA_KH
+    decimal SOTIEN_GIAINGAN
+    string NGAY_HOPDONG
+    string NGAY_DAOHAN
+    decimal LAISUAT
+  }
+  TAISAN_BAODAM {
+    int MA_TS
+    int MA_KH
+    string LOAI_TS
+    decimal GIATRI_TS
+  }
+
+  -- Quan hệ chính
+  KHACH_HANG }o--|| MA_CHINHANH : "thuộc CN"
+  KHACH_HANG }o--|| MA_THANHPHO : "ở TP"
+  TIENGUI_TIETKIEM }o--|| KHACH_HANG : "thuộc KH"
+  HOPDONG_TINDUNG }o--|| KHACH_HANG : "thuộc KH"
+  TAISAN_BAODAM }o--|| KHACH_HANG : "thuộc KH"
