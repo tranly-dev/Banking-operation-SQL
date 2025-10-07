@@ -1,0 +1,471 @@
+﻿ID,MA_TAISAN,MA_LOAI,GIATRI_DINHGIA,DIACHI,THANHPHO
+1,BDS00000322,BDS,4000000000,"Thôn Ngọc Trục, xã Đại Mỗ, Huyện Từ Liêm, Hà Nội",1.0
+2,BDS00000329,BDS,5040000000,"Huyền Kỳ, P. Phú Lâm, Q. Gia Lâm, Hà Nội",1.0
+3,BDS00000336,BDS,5600000000,"Căn 1116, nhà ở 7B, Hoàng Liệt, Thanh Trì, Hà Nội",1.0
+4,MMTB00000196,MMTB,3750000000,,
+5,BDS00000337,BDS,17000000000,Tỉnh Tây Ninh ,72.0
+6,MMTB00000197,MMTB,1100000000,,
+7,BDS00000344,BDS,7000000000,"53 đường số 4, KP 6, Trường Thọ, Thủ Đức, HCM",79.0
+8,BDS00001972,BDS,460000000000,"Khu đô thị mới Hòa Hải 1-3, phường Hải Hòa, Ngũ Hành Sơn",48.0
+9,BDS00001973,BDS,410000000000,"Khu đô thị mới Hòa Hải 1-3, phường Hòa Hải, Ngũ Hành Sơn",48.0
+10,BDS00002788,BDS,34000000000,"64 Phố Huế, p. Ngô Thì Nhậm, q. Hai Bà Trưng, tp Hà Nội",1.0
+11,BDS00002856,BDS,55000000000,Hòa mạc- Duy Tiên – Hà Nam,35.0
+12,BDS00002936,BDS,12000000000,"Phường Mỹ Xuyên, TP Long Xuyên, tỉnh An Giang",89.0
+13,BDS00002940,BDS,2800000000,"Thôn Đồi 1, xã Đông Phương Yên, huyện Chương Mỹ, TP Hà Nội",1.0
+14,BDS00002946,BDS,5000000000,"Đông Hòa, huyện Trảng Bom, tỉnh Đồng Nai",75.0
+15,BDS00002947,BDS,815000000,"xã Đông Hòa, huyện Trảng Bom, tỉnh Đồng Nai",75.0
+16,BDS00003504,BDS,84884000000,"4c-5a-6a nhà C tổ 34 phường Dịch Vọng, q. Cầu Giấy, Hà Nội",1.0
+17,BDS00003523,BDS,29849000000,"02-04 đường số 6C khu dân cư Trung Sơn, ấp 4B, xã Bình Hưng, huyện Bình Chánh, Tp.HCM. ",79.0
+18,BDS00003522,BDS,18350890000,"133A Trần Bình Trọng, Phường 2, Quận 5, TP.HCM. Diện tích 156m2",79.0
+19,BDS00003595,BDS,18000000000,số 209 đường Âu Cơ – phường Quảng An -  Quận Tây Hồ – TP. Hà Nội.,1.0
+20,BDS00003622,BDS,1251000000,"số 716, phường Bạch Đằng, quận Hai Bà Trưng, thành phố Hà Nội.",1.0
+21,BDS00003625,BDS,2321000000,"Thanh Xuân, thành phố Hà Nội",1.0
+22,BDS00003623,BDS,1935000000,"638, phường Bạch Đằng, quận Hai Bà Trưng, thành phố Hà Nội",1.0
+23,BDS00004123,BDS,8698000000,"Số 1, ngách 298/20 Ngọc Lâm, P. Ngọc Lâm, Q. Long Biên",1.0
+24,BDS00004124,BDS,7081000000,"Tổ 10, P. Phúc Đồng, Q. Long Biên",1.0
+25,BDS00004125,BDS,2052000000,"Thôn Bắc Cầu 3, xã Ngọc Thụy, huyện Gia Lâm",1.0
+26,BDS00004381,BDS,49116000000,"số D21 Phương Mai, phương Phương Mai, quận Đống Đa, TP. Hà Nội, thửa đất số 120A,  tờ bản đồ số 6H-III-37+38",1.0
+27,BDS00004404,BDS,1167000000,"Thửa đất số 103, tờ bản đồ 02 Phố Thượng Lân, phường Ninh Sơn, TP Ninh Bình, tỉnh Ninh Bình",37.0
+28,PTVT00000275,PTVT,540000000,,
+29,BDS00004507,BDS,11840000000,số 271 Phố Huế  – phường Phố Huế – quận Hai Bà Trưng – Tp Hà Nội,1.0
+30,MMTB00000351,MMTB,346000000,,
+31,TSTD00000104,TSTD,1596000000,"tờ bản đồ số 1, xã Duyên Thái, Huyện Thường Tín, Hà Tây",1.0
+32,BDS00006948,BDS,5527000000,"thửa đất số 194, tờ bản đồ số 5H-IV-3, số 9 tổ 6B phường Tương Mai, quận Hai Bà Trưng, HN",1.0
+33,BDS00006950,BDS,3909000000,"Căn hộ 214-B20-TT. Kim Liên, phường Kim Liên, q. Đống Đa, HN. ",1.0
+34,BDS00010422,BDS,8358000000,"phường Lĩnh Nam, Hoàng Mai, Hà Nội",1.0
+35,BDS00010424,BDS,5531000000,"số 15 ngõ 155 ngách 74, đường Trường Chinh, phường Phương Liệt, quận Thanh Xuân",1.0
+36,BDS00010425,BDS,3193000000,"Thôn Ích Vịnh, xã Vĩnh Quỳnh, huyện Thanh Trì",1.0
+37,BDS00010426,BDS,609000000,"Xóm Phạm Hồng Thái, xã Hà Hồi, huyện Thường Tín",1.0
+38,BDS00010435,BDS,4122225000,"Thanh Trì, HN",1.0
+39,PTVT00000650,PTVT,1199000000,,
+40,MMTB00000720,MMTB,1307720000,,
+41,MMTB00000721,MMTB,1300530000,,
+42,MMTB00000722,MMTB,978400000,,
+43,TSDBK00000404,Khac,866700000,,
+44,PTVT00000651,PTVT,645000000,,
+45,TSTD00000262,TSTD,542989000000,"xã Như Quỳnh, huyện Mỹ Văn, tỉnh Hải Hưng (hiện là Hưng Yên)",33.0
+46,TSTD00000261,TSTD,120284000000,"số 90, đường Láng, phường Ngã Tư Sở, quận Đống Đa, TP Hà Nội",1.0
+47,BDS00011065,BDS,6964000000,"số 8, khu K72, Trung đoàn 17 thị trấn Đức Giang (số mới là số 48, ngõ 408 đường Ngô Gia Tự, Long Biên, Hà Nội). ",1.0
+48,BDS00011120,BDS,3583000000,"Thửa đất số 14(3) tờ bản đổ số 33, thị trấn Cầu Diễn, Từ Liêm, Hà Nội, diện tích 50m2, đất ở, lâu dài",1.0
+49,BDS00011156,BDS,19178000000,"280 Bến Vân Đồn, Quận 4, TP.HCM",79.0
+50,BDS00011154,BDS,8724000000,"số 279 Bến Vân Đồn, Quận 4, TP.HCM",79.0
+51,BDS00011161,BDS,142000000,"số 283 Bến Vân Đồn, Quận 4, TP.HCM",79.0
+52,BDS00011163,BDS,463530000,"số 201 Hoàng Hoa Thám, Phường 6, Q. Bình Thạnh, TP.HCM",79.0
+53,BDS00011165,BDS,7104000000,"240/Pasteur, Phường 6, Quận 3, TP.HCM",79.0
+54,BDS00011157,BDS,19000000000,"số 281 Bến Vân Đồn, Quận 4, TP.HCM",79.0
+55,BDS00011153,BDS,8000000000,"số 278 Bến Vân Đồn, Quận 4, TP.HCM",79.0
+56,BDS00011158,BDS,7000000000,"số 282 Bến Vân Đồn, Quận 4, TP.HCM",79.0
+57,PTVT00000736,PTVT,104229000000,,
+58,PTVT00000737,PTVT,90000000000,,
+59,TSTD00000280,TSTD,60615000000,,
+60,GTCG00000071,GTCG,5000000000,,
+61,GTCG00000072,GTCG,5000000000,,
+62,MMTB00000771,MMTB,4071000000,,
+63,BDS00011399,BDS,25000000000,"Quyền sử dụng đất và tài sản hình thành trong tương lai trên đất (tài sản được đảm bảo chung cho MSB, PVFC, BIDV và do BIDV làm đầu mối quản lý TS ĐB)",
+64,PTVT00000752,PTVT,18000000000,,
+65,PTVT00000754,PTVT,14000000000,,
+66,BDS00011401,BDS,2267000000,tổ 25 phường Ngọc Thụy Hà Nội,1.0
+67,PTVT00000758,PTVT,168779000000,,
+68,PTVT00000757,PTVT,57175500000,,
+69,PTVT00000760,PTVT,18000000000,,
+70,GTCG00000075,GTCG,68000000000,,
+71,BDS00011436,BDS,20001000000,"Thửa đất số: ./., tờ bản đồ số: 00, tại thị trấn Quốc Oai, huyện Quốc Oai, TP Hà Nội.",1.0
+72,BDS00011434,BDS,58121000000,"Thửa đất số 87(1), tờ bản đồ số: 08, địa chỉ: Tổ 8, phường Bồ Đề, quận Long Biên, TP. Hà Nội",1.0
+73,GTCG00000073,GTCG,18000000000,,
+74,BDS00011432,BDS,25798000000,"Thửa đất số 48, tờ bản đồ số: Trích đo 1/3/1996, địa chỉ: P8 nhà B – TT Tổng Công ty XNK Khoáng sản, Số 1 Tân Ấp, phường Phúc Xá, quận Ba Đình, TP. Hà Nội",1.0
+75,BDS00011430,BDS,14556000000,"Thửa đất số 1, tờ bản đồ số: Trích đo hiện trạng năm 2009, địa chỉ:Thôn Cấn Thượng, xã Cấn Hữu, huyện Quốc Oai, TP. Hà Nội",1.0
+76,GTCG00000074,GTCG,34000000000,,
+77,BDS00011433,BDS,43470000000,"Thửa đất số 804, tờ bản đồ số: 01, địa chỉ: Bến Đọ, Ngô Sài, thị trấn Quốc Oai, huyện Quốc Oai, TP. Hà Nội",1.0
+78,BDS00011435,BDS,12150000000,"Thửa đất số 248, tờ bản đồ số: 6G-IV-33, địa chỉ: 5 ngách 354/99 Trường Chinh, phường Khương Thượng, quận Đống Đa, TP. Hà Nội",1.0
+79,MMTB00000777,MMTB,1414000000,,
+80,BDS00011431,BDS,21531000000,"Thửa đất số 22, tờ bản đồ số: 27, địa chỉ: Khu TT Công ty Xi măng Sài Sơn, huyện Quốc Oai, TP. Hà Nội",1.0
+81,PTVT00000773,PTVT,3110000000,,
+82,PTVT00000774,PTVT,3110000000,,
+83,BDS00011438,BDS,4930462000,"02 QSDĐ có diện tích 88.729,3 m2 và 39.610,3 m2 tại xã Phú Chánh, huyện Tân Uyên, tỉnh Bình Dương",74.0
+84,PTVT00000785,PTVT,63120000000,,
+85,BDS00013633,BDS,8500000000,"39ª Lương Khánh Thiện, Ngô Quyền, Hải Phòng",31.0
+86,PTVT00000786,PTVT,38000000000,,
+87,BDS00011535,BDS,4200000000,"KTĐC Mỹ Phước III, xã Thới Hòa Bến Cát, Bình Dương.",74.0
+88,PTVT00000796,PTVT,245000000000,,
+89,BDS00011704,BDS,4817000000,"Xã Hòa Lợi, huyện Bến Cát, tỉnh Bình Dương",74.0
+90,PTVT00000806,PTVT,88500000000,,
+91,PTVT00000828,PTVT,9440000000,,
+92,PTVT00000838,PTVT,2660000000,,
+93,PTVT00000842,PTVT,11920000000,,
+94,PTVT00000839,PTVT,5112500000,,
+95,PTVT00000837,PTVT,9062500000,,
+96,PTVT00000841,PTVT,2880000000,,
+97,PTVT00000840,PTVT,8000000000,,
+98,TSTD00000305,TSTD,47121000000,,
+99,BDS00012114,BDS,27687000000,"Quyền sử dụng đất và tài sản gắn liền với đất tại: tổ 9 cụm 2 Hạ Đình, Thanh Xuân, Hà Nội, đứng tên ông Lại Trung Dũng và bà Ngô Thị Bích Vân",1.0
+100,BDS00012109,BDS,13851000000,"Quyền sử dụng đất và tài sản gắn liền với đất tại: Khối Hạnh Phúc, phường Vạn Phúc, Hà Đông, Hà Nội, đứng tên Hộ bà Đỗ Thị Dung",1.0
+101,BDS00012107,BDS,16070000000,"Quyền sử dụng đất và tài sản gắn liền với đất tại: Khối Hạnh Phúc, phường Vạn Phúc, Hà Đông, Hà Nội, đứng tên Hộ bà Đỗ Thị Vượng",1.0
+102,BDS00012111,BDS,11330000000,"Quyền sử dụng đất và tài sản gắn liền với đất tại: Khối Hạnh Phúc, phường Vạn Phúc, Hà Đông, Hà Nội, đứng tên Hộ ông Nguyễn Hữu Tân và bà Đỗ Thị Dung",1.0
+103,BDS00012186,BDS,8360000000,"87 Lê Sao, phường Phú Thạnh, quận Tân Phú, TP.Hồ Chí Minh.",
+104,BDS00012590,BDS,1753000000,"BĐS tại Yên Quán, xã Tân Phú, huyện Quốc Oai, tỉnh Hà Tây cũ nay là tp Hà nội. Thửa đất số 135(2), Tờ bản đồ số 2. Diện tích: 152m2",28.0
+105,BDS00012591,BDS,699000000,"BĐS tại Thôn Cù Sơn, xã Vân Cônm huyện Hoài Đức, tỉnh Hà Tây cũ nay là thành phố Hà nội. Thửa đất số 123, tờ bản đồ số 8. Diện tích 171.2m2",28.0
+106,BDS00012344,BDS,5915000000,"Quyền sử dụng đất tại thửa đất số 26A, tờ bản đồ số 06 tại Thôn Cách Thượng, xã Nam Sơn, huyện An Dương, TP Hải Phòng  Diện tích: 650 m2  Mục đích: đất ở nông thôn  Thời hạn: lâu dài  (Chủ TS: Nguyễn Đình Hiệp)  ",31.0
+107,BDS00012349,BDS,2416000000,"Quyền sử dụng 685 m2 đất tại thửa đất số 25, tờ bản đồ số 06 tại Thôn Cách Thượng, xã Nam Sơn, huyện An Dương, TP Hải Phòng  Diện tích: 685 m2  Mục đích: đất ở nông thôn  Thời hạn: lâu dài  (Chủ TS: Nguyễn Đình Hiệp)  ",31.0
+108,BDS00012353,BDS,2112000000,"QSDĐ tại Thửa đất số 24, tờ bản đồ số 06 tại thôn Cách Thượng, xã Nam Sơn, huyện An Dương, TP Hải Phòng.  Diện tích: 600 m2  Mục đích: đất ở nông thôn  Thời hạn: lâu dài  (Chủ TS: Nguyễn Đình Hiệp)  ",31.0
+109,BDS00012345,BDS,1327000000,"Quyền sử dụng đất tại thửa đất số 27A, tờ bản đồ số 06 tại Thôn Cách Thượng, xã Nam Sơn, huyện An Dương, TP Hải Phòng  Diện tích: 316 m2  Mục đích: đất ở nông thôn  Thời hạn: lâu dài  (Chủ TS: Nguyễn Đình Hiệp)  ",31.0
+110,BDS00012362,BDS,1320000000,"Quyền sử dụng 120 m2 đất tại thửa đất số 102, tờ bản đồ số 222-B-II tại xã Trường Sơn, Huyện An Lão, TP Hải Phòng  Diện tích: 120 m2  (CSH: Nguyễn Văn Hoạt và Trịnh Thị Minh Chi)  ",31.0
+111,BDS00012358,BDS,756000000,"Quyền sử dụng đất và tải sản trên đất tại thửa đất số 32, tờ bản đồ số 302590-3-(10) tại 19K15 Khu tập thể Khúc Trì, phường Ngọc Sơn, Kiến An, TP Hải Phòng  Diện tích đất: 96,4 m2  (CSH: Trịnh Quốc Lập và Trần Thị Sáu)  ",31.0
+112,BDS00012830,BDS,22331000000,"27-29 Hai Bà Trưng, Hải Phòng ",31.0
+113,BDS00012831,BDS,7919000000,"xã Bạch Đằng, xã Đoàn Lập, Tiên Lãng, Hải Phòng",31.0
+114,MMTB00000940,MMTB,302000000,,
+115,MMTB00000941,MMTB,300000000,,
+116,TSBDK00000519,Khac,197000000,,
+117,TSBDK00000518,Khac,186000000,,
+118,PTVT00000974,PTVT,3645000000,,
+119,BDS00013588,BDS,24150000000,"264/10/18 Lê Văn Lương khu phố I, P. Tân Hưng, Q. 7, HCM.",79.0
+120,BDS00014679,BDS,34750000000,"34 TÔN ĐỨC THẮNG, QUẬN 1, TP HCM",79.0
+121,PTVT00001153,PTVT,6700000000,,
+122,PTVT00001152,PTVT,4512503000,,
+123,PTVT00001573,PTVT,3100756000,,
+124,PTVT00001572,PTVT,13641000000,,
+125,PTVT00001574,PTVT,33007500000,,
+126,MMTB00001503,MMTB,216000000,,
+127,PTVT00001665,PTVT,356000000,,
+128,GTCG00000152,GTCG,1850000000,,
+129,TSBDK00000805,Khac,245000000,,
+130,BDS00026037,BDS,58275000000,"số 83 Trần Phú, Vĩnh Nguyên, Nha Trang, Khánh Hòa",56.0
+131,BDS00026559,BDS,2219000000,"hu nhà ở đường Nguyễn Quyền, phường Đại Phúc, tp Bắc Ninh, tỉnh Bắc Ninh",27.0
+132,GTCG00000173,GTCG,1340000000,,
+133,GTCG00000174,GTCG,410000000,,
+135,BDS00026959,BDS,960000000,"Quyền sử dụng đất và tài sản gắn liền với đất tại thửa đất số: 02, ô đất NV02-L06 khu đô thị Chi Đông, huyện Mê Linh, TP. Hà Nội",1.0
+136,BDS00026957,BDS,852000000,"Quyền sử dụng đất và tài sản gắn liền với đất tại thửa đất số: 96 tờ bản đồ số PL 30, khu Đô Thị Mới Đồng Văn, thị trấn Đồng Văn, huyện Duy Tiên, tỉnh Hà Nam.",35.0
+137,MMTB00001642,MMTB,24668000000,,
+138,MMTB00001643,MMTB,29491000000,,
+139,PTVT00001871,PTVT,32100000000,,
+134,BDS00026954,BDS,678000000,"Quyền sử dụng đất và tài sản gắn liền với đất tại thửa đất số: 47(F), tờ bản đồ số; 5I-I-28, số 44, ngõ 296 phố Minh Khai, phường Mai Động, quận Hoàng Mai, thành phố Hà Nội.",1.0
+140,PTVT00001872,PTVT,71127412936,,
+141,PTVT00001905,PTVT,110000000000,,
+142,PTVT00001913,PTVT,1400000000,,
+143,PTVT00001909,PTVT,1400000000,,
+144,PTVT00001912,PTVT,1500000000,,
+145,PTVT00001911,PTVT,700000000,,
+146,PTVT00001945,PTVT,800000000,,
+147,PTVT00001944,PTVT,300000000,,
+148,BDS00028087,BDS,1000000000,"Lô 4B Khu CN Thụy Vân, TP.Việt Trì, Phú Thọ",25.0
+149,PTVT00001943,PTVT,500000000,,
+150,BDS00028088,BDS,2000000000,"tổ 10, phường Trung Hòa, quận Cầu Giấy, Hà Nội",1.0
+151,QPSTS00000160,QPSTS,1275000000,,
+152,QPSTS00000161,QPSTS,1875000000,,
+153,MMTB00001666,MMTB,1582700000,,
+154,BDS00028090,BDS,9317000000,"xã Trung Văn, huyện Từ Liêm, Hà Nội",1.0
+155,TSBDK00000906,Khac,10126000000,,
+156,BDS00028247,BDS,8999000000,"lô TT2 dãy B, ô số 6 Bắc Linh Đàm, Hoàng Mai, HN",1.0
+157,BDS00028358,BDS,32840000000,"thôn Trung Văn, xã Trung Văn, huyện Từ Liêm, Hà Nội.",1.0
+158,BDS00028396,BDS,800000000,"thửa đất số 31, tờ bản đồ số 55, Khu vực 382, xã Uy Nỗ, huyện Đông Anh, thành phố Hà Nội",1.0
+159,BDS00028394,BDS,900000000,"thửa đất số 31b, tờ bản đồ số 55, Khu vực 382, xã Uy Nỗ, huyện Đông Anh, thành phố Hà Nội",1.0
+160,BDS00028398,BDS,2000000000,"hửa đất số 31a, tờ bản đồ số 55, Khu vực 382, xã Uy Nỗ, huyện Đông Anh, thành phố Hà Nội",1.0
+161,BDS00029343,BDS,2000000000,"Thửa đất số 12 tờ bản đồ số 6G-III-27 Tổ 42A, Phường Khương Đình quận Thanh Xuân, Hà Nội",1.0
+162,BDS00029342,BDS,1000000000,"Căn hộ số 08 nhà Q100, TT Trương Định, phường Tương Mai, Quận Hoàng Mai, Thành phố Hà Nội",1.0
+163,BDS00029344,BDS,4832000000,"Số nhà 30 ngõ 191 Xóm Thượng Đình, Thôn Cáo Đỉnh phường Xuân Đỉnh huyện Từ Liêm Hà Nội.",1.0
+164,BDS00029424,BDS,6930000000,"Thửa đất số 168; Tờ bản đồ số 02, tại số 4b/4, phố Quang Trung, phường Quang Trung, thị xã Sơn Tây, tỉnh Hà Tây (nay là thành phố Hà Nội).",1.0
+165,TSTD00000586,TSTD,600000000,"phường Hà Huy Tập, thành phố Vinh, tỉnh Nghệ An",4.0
+166,BDS00030209,BDS,1500000000,"hửa 229, tờ bản đồ 02 , khối 1, phường Trường Thi, TP Vinh.",4.0
+167,BDS00030206,BDS,600000000,"thửa đất số 208, thửa đất số 02, khối 1, phường Trường Thi, TP Vinh, Nghệ An.",4.0
+168,TSTD00000587,TSTD,400000000,"Đường Hồ Tùng Mẫu, thành phố Vinh, tỉnh Nghệ An",4.0
+169,BDS00030701,BDS,900000000,"Thửa đất số 432, tờ bản đồ số 9. Địa chỉ đường Lê Lợi, phường Lê Lợi, thành phố Bắc Giang, tỉnh Bắc Giang",24.0
+170,BDS00030700,BDS,965000000,"hửa đất số 99, tờ bản đồ số 11. Địa chỉ Tổ dân phố số 01, phường Ngô Quyền, thành phố Bắc Giang",24.0
+171,BDS00030702,BDS,650000000,"Thửa đất số 128, tờ bản đồ số 9. Địa chỉ đường Lê Lợi, phường Lê Lợi, thành phố Bắc Giang, tỉnh Bắc Giang",24.0
+172,BDS00030704,BDS,400000000,"Thửa đất số B20, tờ bản đồ số QH. Địa chỉ Khu May Mặc, xã Kim Long, huyện Tam Dương, tỉnh Vĩnh Phúc",26.0
+173,BDS00030703,BDS,550000000,"Thửa đất số 14, tờ bản đồ số 63. Địa chỉ Khu Hồng Hà 1, phường Bến Gót, thành phố Việt Trì, tỉnh Phú Thọ",25.0
+174,MMTB00001871,MMTB,1000000000,,
+175,MMTB00001872,MMTB,1880000000,,
+176,MMTB00001873,MMTB,1875000000,,
+177,MMTB00001875,MMTB,3292000000,,
+178,MMTB00001874,MMTB,1220000000,,
+179,TSTD00000620,TSTD,2494000000,"Xóm Lạng Cá, thị trấn Pác Miầu, huyện Bảo Lâm, Cao Bằng",4.0
+180,TSTD00000619,TSTD,2308300000,"Xóm Khối Huân, Xã Ngũ Lão, Huyện Hòa An, Cao Bằng",4.0
+181,BDS00031869,BDS,1000000000,"Tổ 22, phường Sông Bằng, thị xã Cao Bằng, tỉnh Cao Bằng.",4.0
+182,BDS00031870,BDS,1800000000,"Tổ 22, phường Sông Bằng, thị xã Cao Bằng, tỉnh Cao Bằng",4.0
+183,BDS00031868,BDS,600000000,"Tổ 22, phường Sông Bằng, thị xã Cao Bằng, tỉnh Cao Bằng.",4.0
+184,BDS00031895,BDS,500000000,"xã Ái Quốc, tp Hải Dương, tỉnh Hải Dương",3.0
+185,BDS00031894,BDS,2000000000,"xã Ái Quốc, tp Hải Dương, tỉnh Hải Dương",3.0
+186,MMTB00001879,MMTB,5943000000,,
+187,TSBDK00001033,Khac,10206000000,,
+188,TSBDK00001032,Khac,6086600000,,
+189,BDS00031898,BDS,800000000,"số 22 Lô 01C Khu Đô thị Trung Yên, Cầu Giấy, Hà  nội",1.0
+190,BDS00031896,BDS,400000000,"địa chỉ số 6 ngõ 294 Đội Cấn, Ba Đình, Hà nội",1.0
+191,BDS00031897,BDS,300000000,"số 268 Đội Cấn, Ba Đình, Hà nội",1.0
+192,BDS00031899,BDS,200000000,"số 31 phố Linh Lang, Ba Đình, Hà  nội",1.0
+193,BDS00031900,BDS,300000000,"số 52 ngách 462/10 đường Bưởi, Ba Đình, Hà  nội",1.0
+194,BDS00032109,BDS,3500000000,"địa chỉ P.28, Q.Bình Thạnh, TP.HCM.  số tờ bản đồ: 2; số thửa: 954",79.0
+195,TSBDK00001049,Khac,700000000,,
+196,GTCG00000236,GTCG,800000000,,
+197,BDS00032466,BDS,702000000,"Dự án Khu đô thị cao cấp Nguyễn Quyền, TP Bắc Ninh.",27.0
+198,TSTD00000630,TSTD,4800000000,"Phường Phú Thuận, Quận 7, TP.HCM",79.0
+199,TSTD00000631,TSTD,6000000000,"307 Huỳnh Tấn Phát, KP3, Phường Tân Thuận Đông, Quận 7, TP .HCM",79.0
+200,PTVT00002377,PTVT,6064000000,,
+201,PTVT00002376,PTVT,8929000000,,
+202,PTVT00002378,PTVT,7211000000,,
+203,BDS00032601,BDS,14507000000,"6-8 Đoàn Văn Bơ, Phường 09, Quận 04, TP HCM",79.0
+204,PTVT00002382,PTVT,12000000000,,
+205,BDS00032611,BDS,30000000000,"36-38 Nguyễn Trường Tộ, phường 12, quận 4, tp HCM",79.0
+206,PTVT00002383,PTVT,113753000000,,
+207,TSBDK00001063,Khac,4700000000,,
+208,TSTD00000639,TSTD,90000000000,"số 06 Trần Hưng Đạo, Huế.",46.0
+209,GTCG00000248,GTCG,6000000000,,
+210,GTCG00000249,GTCG,10000000000,,
+211,PTVT00002433,PTVT,12000000000,,
+212,BDS00033147,BDS,44257000000,Thị trấn Thuận An,46.0
+213,TSBDK00001106,Khac,16000000000,,
+214,PTVT00002432,PTVT,9620000000,,
+215,GTCG00000296,GTCG,700000000,,
+216,BDS00033912,BDS,2878000000,"97 Nơ Trang Long, P.11, Q Bình Thạnh, tp HCM",79.0
+217,BDS00033914,BDS,6270000000,"Thửa đất 1/229 KBT Phú Gia H21,22,27,28, số 01 Hà Huy Tập, Tân Phong, Quận 7, TP.HCM",79.0
+218,PTVT00002573,PTVT,1500000000,,
+219,PTVT00002574,PTVT,99030000000,,
+220,PTVT00002575,PTVT,6000000000,,
+221,PTVT00002601,PTVT,2800000000,,
+222,PTVT00002602,PTVT,900000000,,
+223,BDS000043819,BDS,40000000000,"số A7 Phương Mai, phương Phương Mai, quận Đống Đa, TP. Hà Nội",1.0
+224,PTVT000007609,PTVT,15000000000,,
+225,BDS000136339,BDS,8000000000,"Lương Khánh Thiện, Ngô Quyền, Hải Phòng",31.0
+226,BDS000146799,BDS,35000000000,"34 TÔN ĐỨC THẮNG, QUẬN 1, TP HCM",79.0
+227,BDS000146809,BDS,35000000000,"35 TÔN ĐỨC THẮNG, QUẬN 1, TP HCM",80.0
+228,BDS000146819,BDS,25000000000,"36 TÔN ĐỨC THẮNG, QUẬN 1, TP HCM",81.0
+229,PTVT000024339,PTVT,28000000000,,
+230,BDS000331479,BDS,30000000000,Thị trấn Thuận An,46.0
+231,BDS000331489,BDS,35000000000,Thị trấn Thuận An,47.0
+232,TSBDK000011069,Khac,15000000000,,
+233,PTVT000024329,PTVT,15000000000,,
+234,PTVT000025739,PTVT,1450000000,,
+235,PTVT000025759,PTVT,2800000000,,
+236,BDS00000322,BDS,4000000000,"Thôn Ngọc Trục, xã Đại Mỗ, Huyện Từ Liêm, Hà Nội",1.0
+237,BDS00000329,BDS,5040000000,"Huyền Kỳ, P. Phú Lâm, Q. Gia Lâm, Hà Nội",1.0
+238,BDS00000336,BDS,5600000000,"Căn 1116, nhà ở 7B, Hoàng Liệt, Thanh Trì, Hà Nội",1.0
+239,MMTB00000196,MMTB,3750000000,,
+240,BDS00000337,BDS,17000000000,Tỉnh Tây Ninh ,72.0
+241,MMTB00000197,MMTB,1100000000,,
+242,BDS00000344,BDS,7000000000,"53 đường số 4, KP 6, Trường Thọ, Thủ Đức, HCM",79.0
+243,BDS00001972,BDS,460000000000,"Khu đô thị mới Hòa Hải 1-3, phường Hải Hòa, Ngũ Hành Sơn",48.0
+244,BDS00001973,BDS,410000000000,"Khu đô thị mới Hòa Hải 1-3, phường Hòa Hải, Ngũ Hành Sơn",48.0
+245,BDS00002788,BDS,34000000000,"64 Phố Huế, p. Ngô Thì Nhậm, q. Hai Bà Trưng, tp Hà Nội",1.0
+246,BDS00002856,BDS,55000000000,Hòa mạc- Duy Tiên – Hà Nam,35.0
+247,BDS00002936,BDS,12000000000,"Phường Mỹ Xuyên, TP Long Xuyên, tỉnh An Giang",89.0
+248,BDS00002940,BDS,2800000000,"Thôn Đồi 1, xã Đông Phương Yên, huyện Chương Mỹ, TP Hà Nội",1.0
+249,BDS00002946,BDS,5000000000,"Đông Hòa, huyện Trảng Bom, tỉnh Đồng Nai",75.0
+250,BDS00002947,BDS,815000000,"xã Đông Hòa, huyện Trảng Bom, tỉnh Đồng Nai",75.0
+251,BDS00003504,BDS,84884000000,"4c-5a-6a nhà C tổ 34 phường Dịch Vọng, q. Cầu Giấy, Hà Nội",1.0
+252,BDS00003523,BDS,29849000000,"02-04 đường số 6C khu dân cư Trung Sơn, ấp 4B, xã Bình Hưng, huyện Bình Chánh, Tp.HCM. ",79.0
+253,BDS00003522,BDS,18350890000,"133A Trần Bình Trọng, Phường 2, Quận 5, TP.HCM. Diện tích 156m2",79.0
+254,BDS00003595,BDS,18000000000,số 209 đường Âu Cơ – phường Quảng An -  Quận Tây Hồ – TP. Hà Nội.,1.0
+255,BDS00003622,BDS,1251000000,"số 716, phường Bạch Đằng, quận Hai Bà Trưng, thành phố Hà Nội.",1.0
+256,BDS00003625,BDS,2321000000,"Thanh Xuân, thành phố Hà Nội",1.0
+257,BDS00003623,BDS,1935000000,"638, phường Bạch Đằng, quận Hai Bà Trưng, thành phố Hà Nội",1.0
+258,BDS00004123,BDS,8698000000,"Số 1, ngách 298/20 Ngọc Lâm, P. Ngọc Lâm, Q. Long Biên",1.0
+259,BDS00004124,BDS,7081000000,"Tổ 10, P. Phúc Đồng, Q. Long Biên",1.0
+260,BDS00004125,BDS,2052000000,"Thôn Bắc Cầu 3, xã Ngọc Thụy, huyện Gia Lâm",1.0
+261,BDS00004381,BDS,49116000000,"số D21 Phương Mai, phương Phương Mai, quận Đống Đa, TP. Hà Nội, thửa đất số 120A,  tờ bản đồ số 6H-III-37+38",1.0
+262,BDS00004404,BDS,1167000000,"Thửa đất số 103, tờ bản đồ 02 Phố Thượng Lân, phường Ninh Sơn, TP Ninh Bình, tỉnh Ninh Bình",37.0
+263,PTVT00000275,PTVT,540000000,,
+264,BDS00004507,BDS,11840000000,số 271 Phố Huế  – phường Phố Huế – quận Hai Bà Trưng – Tp Hà Nội,1.0
+265,MMTB00000351,MMTB,346000000,,
+266,TSTD00000104,TSTD,1596000000,"tờ bản đồ số 1, xã Duyên Thái, Huyện Thường Tín, Hà Tây",1.0
+267,BDS00006948,BDS,5527000000,"thửa đất số 194, tờ bản đồ số 5H-IV-3, số 9 tổ 6B phường Tương Mai, quận Hai Bà Trưng, HN",1.0
+268,BDS00006950,BDS,3909000000,"Căn hộ 214-B20-TT. Kim Liên, phường Kim Liên, q. Đống Đa, HN. ",1.0
+269,BDS00010422,BDS,8358000000,"phường Lĩnh Nam, Hoàng Mai, Hà Nội",1.0
+270,BDS00010424,BDS,5531000000,"số 15 ngõ 155 ngách 74, đường Trường Chinh, phường Phương Liệt, quận Thanh Xuân",1.0
+271,BDS00010425,BDS,3193000000,"Thôn Ích Vịnh, xã Vĩnh Quỳnh, huyện Thanh Trì",1.0
+272,BDS00010426,BDS,609000000,"Xóm Phạm Hồng Thái, xã Hà Hồi, huyện Thường Tín",1.0
+273,BDS00010435,BDS,4122225000,"Thanh Trì, HN",1.0
+274,PTVT00000650,PTVT,1199000000,,
+275,MMTB00000720,MMTB,1307720000,,
+276,MMTB00000721,MMTB,1300530000,,
+277,MMTB00000722,MMTB,978400000,,
+278,TSDBK00000404,Khac,866700000,,
+279,PTVT00000651,PTVT,645000000,,
+280,TSTD00000262,TSTD,542989000000,"xã Như Quỳnh, huyện Mỹ Văn, tỉnh Hải Hưng (hiện là Hưng Yên)",33.0
+281,TSTD00000261,TSTD,120284000000,"số 90, đường Láng, phường Ngã Tư Sở, quận Đống Đa, TP Hà Nội",1.0
+282,BDS00011065,BDS,6964000000,"số 8, khu K72, Trung đoàn 17 thị trấn Đức Giang (số mới là số 48, ngõ 408 đường Ngô Gia Tự, Long Biên, Hà Nội). ",1.0
+283,BDS00011120,BDS,3583000000,"Thửa đất số 14(3) tờ bản đổ số 33, thị trấn Cầu Diễn, Từ Liêm, Hà Nội, diện tích 50m2, đất ở, lâu dài",1.0
+284,BDS00011156,BDS,19178000000,"280 Bến Vân Đồn, Quận 4, TP.HCM",79.0
+285,BDS00011154,BDS,8724000000,"số 279 Bến Vân Đồn, Quận 4, TP.HCM",79.0
+286,BDS00011161,BDS,142000000,"số 283 Bến Vân Đồn, Quận 4, TP.HCM",79.0
+287,BDS00011163,BDS,463530000,"số 201 Hoàng Hoa Thám, Phường 6, Q. Bình Thạnh, TP.HCM",79.0
+288,BDS00011165,BDS,7104000000,"240/Pasteur, Phường 6, Quận 3, TP.HCM",79.0
+289,BDS00011157,BDS,19000000000,"số 281 Bến Vân Đồn, Quận 4, TP.HCM",79.0
+290,BDS00011153,BDS,8000000000,"số 278 Bến Vân Đồn, Quận 4, TP.HCM",79.0
+291,BDS00011158,BDS,7000000000,"số 282 Bến Vân Đồn, Quận 4, TP.HCM",79.0
+292,PTVT00000736,PTVT,104229000000,,
+293,PTVT00000737,PTVT,90000000000,,
+294,TSTD00000280,TSTD,60615000000,,
+295,GTCG00000071,GTCG,5000000000,,
+296,GTCG00000072,GTCG,5000000000,,
+297,MMTB00000771,MMTB,4071000000,,
+298,BDS00011399,BDS,25000000000,"Quyền sử dụng đất và tài sản hình thành trong tương lai trên đất (tài sản được đảm bảo chung cho MSB, PVFC, BIDV và do BIDV làm đầu mối quản lý TS ĐB)",
+299,PTVT00000752,PTVT,18000000000,,
+300,PTVT00000754,PTVT,14000000000,,
+301,BDS00011401,BDS,2267000000,tổ 25 phường Ngọc Thụy Hà Nội,1.0
+302,PTVT00000758,PTVT,168779000000,,
+303,PTVT00000757,PTVT,57175500000,,
+304,PTVT00000760,PTVT,18000000000,,
+305,GTCG00000075,GTCG,68000000000,,
+306,BDS00011436,BDS,20001000000,"Thửa đất số: ./., tờ bản đồ số: 00, tại thị trấn Quốc Oai, huyện Quốc Oai, TP Hà Nội.",1.0
+307,BDS00011434,BDS,58121000000,"Thửa đất số 87(1), tờ bản đồ số: 08, địa chỉ: Tổ 8, phường Bồ Đề, quận Long Biên, TP. Hà Nội",1.0
+308,GTCG00000073,GTCG,18000000000,,
+309,BDS00011432,BDS,25798000000,"Thửa đất số 48, tờ bản đồ số: Trích đo 1/3/1996, địa chỉ: P8 nhà B – TT Tổng Công ty XNK Khoáng sản, Số 1 Tân Ấp, phường Phúc Xá, quận Ba Đình, TP. Hà Nội",1.0
+310,BDS00011430,BDS,14556000000,"Thửa đất số 1, tờ bản đồ số: Trích đo hiện trạng năm 2009, địa chỉ:Thôn Cấn Thượng, xã Cấn Hữu, huyện Quốc Oai, TP. Hà Nội",1.0
+311,GTCG00000074,GTCG,34000000000,,
+312,BDS00011433,BDS,43470000000,"Thửa đất số 804, tờ bản đồ số: 01, địa chỉ: Bến Đọ, Ngô Sài, thị trấn Quốc Oai, huyện Quốc Oai, TP. Hà Nội",1.0
+313,BDS00011435,BDS,12150000000,"Thửa đất số 248, tờ bản đồ số: 6G-IV-33, địa chỉ: 5 ngách 354/99 Trường Chinh, phường Khương Thượng, quận Đống Đa, TP. Hà Nội",1.0
+314,MMTB00000777,MMTB,1414000000,,
+315,BDS00011431,BDS,21531000000,"Thửa đất số 22, tờ bản đồ số: 27, địa chỉ: Khu TT Công ty Xi măng Sài Sơn, huyện Quốc Oai, TP. Hà Nội",1.0
+316,PTVT00000773,PTVT,3110000000,,
+317,PTVT00000774,PTVT,3110000000,,
+318,BDS00011438,BDS,4930462000,"02 QSDĐ có diện tích 88.729,3 m2 và 39.610,3 m2 tại xã Phú Chánh, huyện Tân Uyên, tỉnh Bình Dương",74.0
+319,PTVT00000785,PTVT,63120000000,,
+320,BDS00013633,BDS,8500000000,"39ª Lương Khánh Thiện, Ngô Quyền, Hải Phòng",31.0
+321,PTVT00000786,PTVT,38000000000,,
+322,BDS00011535,BDS,4200000000,"KTĐC Mỹ Phước III, xã Thới Hòa Bến Cát, Bình Dương.",74.0
+323,PTVT00000796,PTVT,245000000000,,
+324,BDS00011704,BDS,4817000000,"Xã Hòa Lợi, huyện Bến Cát, tỉnh Bình Dương",74.0
+325,PTVT00000806,PTVT,88500000000,,
+326,PTVT00000828,PTVT,9440000000,,
+327,PTVT00000838,PTVT,2660000000,,
+328,PTVT00000842,PTVT,11920000000,,
+329,PTVT00000839,PTVT,5112500000,,
+330,PTVT00000837,PTVT,9062500000,,
+331,PTVT00000841,PTVT,2880000000,,
+332,PTVT00000840,PTVT,8000000000,,
+333,TSTD00000305,TSTD,47121000000,,
+334,BDS00012114,BDS,27687000000,"Quyền sử dụng đất và tài sản gắn liền với đất tại: tổ 9 cụm 2 Hạ Đình, Thanh Xuân, Hà Nội, đứng tên ông Lại Trung Dũng và bà Ngô Thị Bích Vân",1.0
+335,BDS00012109,BDS,13851000000,"Quyền sử dụng đất và tài sản gắn liền với đất tại: Khối Hạnh Phúc, phường Vạn Phúc, Hà Đông, Hà Nội, đứng tên Hộ bà Đỗ Thị Dung",1.0
+336,BDS00012107,BDS,16070000000,"Quyền sử dụng đất và tài sản gắn liền với đất tại: Khối Hạnh Phúc, phường Vạn Phúc, Hà Đông, Hà Nội, đứng tên Hộ bà Đỗ Thị Vượng",1.0
+337,BDS00012111,BDS,11330000000,"Quyền sử dụng đất và tài sản gắn liền với đất tại: Khối Hạnh Phúc, phường Vạn Phúc, Hà Đông, Hà Nội, đứng tên Hộ ông Nguyễn Hữu Tân và bà Đỗ Thị Dung",1.0
+338,BDS00012186,BDS,8360000000,"87 Lê Sao, phường Phú Thạnh, quận Tân Phú, TP.Hồ Chí Minh.",
+339,BDS00012590,BDS,1753000000,"BĐS tại Yên Quán, xã Tân Phú, huyện Quốc Oai, tỉnh Hà Tây cũ nay là tp Hà nội. Thửa đất số 135(2), Tờ bản đồ số 2. Diện tích: 152m2",28.0
+340,BDS00012591,BDS,699000000,"BĐS tại Thôn Cù Sơn, xã Vân Cônm huyện Hoài Đức, tỉnh Hà Tây cũ nay là thành phố Hà nội. Thửa đất số 123, tờ bản đồ số 8. Diện tích 171.2m2",28.0
+341,BDS00012344,BDS,5915000000,"Quyền sử dụng đất tại thửa đất số 26A, tờ bản đồ số 06 tại Thôn Cách Thượng, xã Nam Sơn, huyện An Dương, TP Hải Phòng  Diện tích: 650 m2  Mục đích: đất ở nông thôn  Thời hạn: lâu dài  (Chủ TS: Nguyễn Đình Hiệp)  ",31.0
+342,BDS00012349,BDS,2416000000,"Quyền sử dụng 685 m2 đất tại thửa đất số 25, tờ bản đồ số 06 tại Thôn Cách Thượng, xã Nam Sơn, huyện An Dương, TP Hải Phòng  Diện tích: 685 m2  Mục đích: đất ở nông thôn  Thời hạn: lâu dài  (Chủ TS: Nguyễn Đình Hiệp)  ",31.0
+343,BDS00012353,BDS,2112000000,"QSDĐ tại Thửa đất số 24, tờ bản đồ số 06 tại thôn Cách Thượng, xã Nam Sơn, huyện An Dương, TP Hải Phòng.  Diện tích: 600 m2  Mục đích: đất ở nông thôn  Thời hạn: lâu dài  (Chủ TS: Nguyễn Đình Hiệp)  ",31.0
+344,BDS00012345,BDS,1327000000,"Quyền sử dụng đất tại thửa đất số 27A, tờ bản đồ số 06 tại Thôn Cách Thượng, xã Nam Sơn, huyện An Dương, TP Hải Phòng  Diện tích: 316 m2  Mục đích: đất ở nông thôn  Thời hạn: lâu dài  (Chủ TS: Nguyễn Đình Hiệp)  ",31.0
+345,BDS00012362,BDS,1320000000,"Quyền sử dụng 120 m2 đất tại thửa đất số 102, tờ bản đồ số 222-B-II tại xã Trường Sơn, Huyện An Lão, TP Hải Phòng  Diện tích: 120 m2  (CSH: Nguyễn Văn Hoạt và Trịnh Thị Minh Chi)  ",31.0
+346,BDS00012358,BDS,756000000,"Quyền sử dụng đất và tải sản trên đất tại thửa đất số 32, tờ bản đồ số 302590-3-(10) tại 19K15 Khu tập thể Khúc Trì, phường Ngọc Sơn, Kiến An, TP Hải Phòng  Diện tích đất: 96,4 m2  (CSH: Trịnh Quốc Lập và Trần Thị Sáu)  ",31.0
+347,BDS00012830,BDS,22331000000,"27-29 Hai Bà Trưng, Hải Phòng ",31.0
+348,BDS00012831,BDS,7919000000,"xã Bạch Đằng, xã Đoàn Lập, Tiên Lãng, Hải Phòng",31.0
+349,MMTB00000940,MMTB,302000000,,
+350,MMTB00000941,MMTB,300000000,,
+351,TSBDK00000519,Khac,197000000,,
+352,TSBDK00000518,Khac,186000000,,
+353,PTVT00000974,PTVT,3645000000,,
+354,BDS00013588,BDS,24150000000,"264/10/18 Lê Văn Lương khu phố I, P. Tân Hưng, Q. 7, HCM.",79.0
+355,BDS00014679,BDS,34750000000,"34 TÔN ĐỨC THẮNG, QUẬN 1, TP HCM",79.0
+356,PTVT00001153,PTVT,6700000000,,
+357,PTVT00001152,PTVT,4512503000,,
+358,PTVT00001573,PTVT,3100756000,,
+359,PTVT00001572,PTVT,13641000000,,
+360,PTVT00001574,PTVT,33007500000,,
+361,MMTB00001503,MMTB,216000000,,
+362,PTVT00001665,PTVT,356000000,,
+363,GTCG00000152,GTCG,1850000000,,
+364,TSBDK00000805,Khac,245000000,,
+365,BDS00026037,BDS,58275000000,"số 83 Trần Phú, Vĩnh Nguyên, Nha Trang, Khánh Hòa",56.0
+366,BDS00026559,BDS,2219000000,"hu nhà ở đường Nguyễn Quyền, phường Đại Phúc, tp Bắc Ninh, tỉnh Bắc Ninh",27.0
+367,GTCG00000173,GTCG,1340000000,,
+368,GTCG00000174,GTCG,410000000,,
+370,BDS00026959,BDS,960000000,"Quyền sử dụng đất và tài sản gắn liền với đất tại thửa đất số: 02, ô đất NV02-L06 khu đô thị Chi Đông, huyện Mê Linh, TP. Hà Nội",1.0
+371,BDS00026957,BDS,852000000,"Quyền sử dụng đất và tài sản gắn liền với đất tại thửa đất số: 96 tờ bản đồ số PL 30, khu Đô Thị Mới Đồng Văn, thị trấn Đồng Văn, huyện Duy Tiên, tỉnh Hà Nam.",35.0
+372,MMTB00001642,MMTB,24668000000,,
+373,MMTB00001643,MMTB,29491000000,,
+374,PTVT00001871,PTVT,32100000000,,
+369,BDS00026954,BDS,678000000,"Quyền sử dụng đất và tài sản gắn liền với đất tại thửa đất số: 47(F), tờ bản đồ số; 5I-I-28, số 44, ngõ 296 phố Minh Khai, phường Mai Động, quận Hoàng Mai, thành phố Hà Nội.",1.0
+375,PTVT00001872,PTVT,71127412936,,
+376,PTVT00001905,PTVT,110000000000,,
+377,PTVT00001913,PTVT,1400000000,,
+378,PTVT00001909,PTVT,1400000000,,
+379,PTVT00001912,PTVT,1500000000,,
+380,PTVT00001911,PTVT,700000000,,
+381,PTVT00001945,PTVT,800000000,,
+382,PTVT00001944,PTVT,300000000,,
+383,BDS00028087,BDS,1000000000,"Lô 4B Khu CN Thụy Vân, TP.Việt Trì, Phú Thọ",25.0
+384,PTVT00001943,PTVT,500000000,,
+385,BDS00028088,BDS,2000000000,"tổ 10, phường Trung Hòa, quận Cầu Giấy, Hà Nội",1.0
+386,QPSTS00000160,QPSTS,1275000000,,
+387,QPSTS00000161,QPSTS,1875000000,,
+388,MMTB00001666,MMTB,1582700000,,
+389,BDS00028090,BDS,9317000000,"xã Trung Văn, huyện Từ Liêm, Hà Nội",1.0
+390,TSBDK00000906,Khac,10126000000,,
+391,BDS00028247,BDS,8999000000,"lô TT2 dãy B, ô số 6 Bắc Linh Đàm, Hoàng Mai, HN",1.0
+392,BDS00028358,BDS,32840000000,"thôn Trung Văn, xã Trung Văn, huyện Từ Liêm, Hà Nội.",1.0
+393,BDS00028396,BDS,800000000,"thửa đất số 31, tờ bản đồ số 55, Khu vực 382, xã Uy Nỗ, huyện Đông Anh, thành phố Hà Nội",1.0
+394,BDS00028394,BDS,900000000,"thửa đất số 31b, tờ bản đồ số 55, Khu vực 382, xã Uy Nỗ, huyện Đông Anh, thành phố Hà Nội",1.0
+395,BDS00028398,BDS,2000000000,"hửa đất số 31a, tờ bản đồ số 55, Khu vực 382, xã Uy Nỗ, huyện Đông Anh, thành phố Hà Nội",1.0
+396,BDS00029343,BDS,2000000000,"Thửa đất số 12 tờ bản đồ số 6G-III-27 Tổ 42A, Phường Khương Đình quận Thanh Xuân, Hà Nội",1.0
+397,BDS00029342,BDS,1000000000,"Căn hộ số 08 nhà Q100, TT Trương Định, phường Tương Mai, Quận Hoàng Mai, Thành phố Hà Nội",1.0
+398,BDS00029344,BDS,4832000000,"Số nhà 30 ngõ 191 Xóm Thượng Đình, Thôn Cáo Đỉnh phường Xuân Đỉnh huyện Từ Liêm Hà Nội.",1.0
+399,BDS00029424,BDS,6930000000,"Thửa đất số 168; Tờ bản đồ số 02, tại số 4b/4, phố Quang Trung, phường Quang Trung, thị xã Sơn Tây, tỉnh Hà Tây (nay là thành phố Hà Nội).",1.0
+400,TSTD00000586,TSTD,600000000,"phường Hà Huy Tập, thành phố Vinh, tỉnh Nghệ An",4.0
+401,BDS00030209,BDS,1500000000,"hửa 229, tờ bản đồ 02 , khối 1, phường Trường Thi, TP Vinh.",4.0
+402,BDS00030206,BDS,600000000,"thửa đất số 208, thửa đất số 02, khối 1, phường Trường Thi, TP Vinh, Nghệ An.",4.0
+403,TSTD00000587,TSTD,400000000,"Đường Hồ Tùng Mẫu, thành phố Vinh, tỉnh Nghệ An",4.0
+404,BDS00030701,BDS,900000000,"Thửa đất số 432, tờ bản đồ số 9. Địa chỉ đường Lê Lợi, phường Lê Lợi, thành phố Bắc Giang, tỉnh Bắc Giang",24.0
+405,BDS00030700,BDS,965000000,"hửa đất số 99, tờ bản đồ số 11. Địa chỉ Tổ dân phố số 01, phường Ngô Quyền, thành phố Bắc Giang",24.0
+406,BDS00030702,BDS,650000000,"Thửa đất số 128, tờ bản đồ số 9. Địa chỉ đường Lê Lợi, phường Lê Lợi, thành phố Bắc Giang, tỉnh Bắc Giang",24.0
+407,BDS00030704,BDS,400000000,"Thửa đất số B20, tờ bản đồ số QH. Địa chỉ Khu May Mặc, xã Kim Long, huyện Tam Dương, tỉnh Vĩnh Phúc",26.0
+408,BDS00030703,BDS,550000000,"Thửa đất số 14, tờ bản đồ số 63. Địa chỉ Khu Hồng Hà 1, phường Bến Gót, thành phố Việt Trì, tỉnh Phú Thọ",25.0
+409,MMTB00001871,MMTB,1000000000,,
+410,MMTB00001872,MMTB,1880000000,,
+411,MMTB00001873,MMTB,1875000000,,
+412,MMTB00001875,MMTB,3292000000,,
+413,MMTB00001874,MMTB,1220000000,,
+414,TSTD00000620,TSTD,2494000000,"Xóm Lạng Cá, thị trấn Pác Miầu, huyện Bảo Lâm, Cao Bằng",4.0
+415,TSTD00000619,TSTD,2308300000,"Xóm Khối Huân, Xã Ngũ Lão, Huyện Hòa An, Cao Bằng",4.0
+416,BDS00031869,BDS,1000000000,"Tổ 22, phường Sông Bằng, thị xã Cao Bằng, tỉnh Cao Bằng.",4.0
+417,BDS00031870,BDS,1800000000,"Tổ 22, phường Sông Bằng, thị xã Cao Bằng, tỉnh Cao Bằng",4.0
+418,BDS00031868,BDS,600000000,"Tổ 22, phường Sông Bằng, thị xã Cao Bằng, tỉnh Cao Bằng.",4.0
+419,BDS00031895,BDS,500000000,"xã Ái Quốc, tp Hải Dương, tỉnh Hải Dương",3.0
+420,BDS00031894,BDS,2000000000,"xã Ái Quốc, tp Hải Dương, tỉnh Hải Dương",3.0
+421,MMTB00001879,MMTB,5943000000,,
+422,TSBDK00001033,Khac,10206000000,,
+423,TSBDK00001032,Khac,6086600000,,
+424,BDS00031898,BDS,800000000,"số 22 Lô 01C Khu Đô thị Trung Yên, Cầu Giấy, Hà  nội",1.0
+425,BDS00031896,BDS,400000000,"địa chỉ số 6 ngõ 294 Đội Cấn, Ba Đình, Hà nội",1.0
+426,BDS00031897,BDS,300000000,"số 268 Đội Cấn, Ba Đình, Hà nội",1.0
+427,BDS00031899,BDS,200000000,"số 31 phố Linh Lang, Ba Đình, Hà  nội",1.0
+428,BDS00031900,BDS,300000000,"số 52 ngách 462/10 đường Bưởi, Ba Đình, Hà  nội",1.0
+429,BDS00032109,BDS,3500000000,"địa chỉ P.28, Q.Bình Thạnh, TP.HCM.  số tờ bản đồ: 2; số thửa: 954",79.0
+430,TSBDK00001049,Khac,700000000,,
+431,GTCG00000236,GTCG,800000000,,
+432,BDS00032466,BDS,702000000,"Dự án Khu đô thị cao cấp Nguyễn Quyền, TP Bắc Ninh.",27.0
+433,TSTD00000630,TSTD,4800000000,"Phường Phú Thuận, Quận 7, TP.HCM",79.0
+434,TSTD00000631,TSTD,6000000000,"307 Huỳnh Tấn Phát, KP3, Phường Tân Thuận Đông, Quận 7, TP .HCM",79.0
+435,PTVT00002377,PTVT,6064000000,,
+436,PTVT00002376,PTVT,8929000000,,
+437,PTVT00002378,PTVT,7211000000,,
+438,BDS00032601,BDS,14507000000,"6-8 Đoàn Văn Bơ, Phường 09, Quận 04, TP HCM",79.0
+439,PTVT00002382,PTVT,12000000000,,
+440,BDS00032611,BDS,30000000000,"36-38 Nguyễn Trường Tộ, phường 12, quận 4, tp HCM",79.0
+441,PTVT00002383,PTVT,113753000000,,
+442,TSBDK00001063,Khac,4700000000,,
+443,TSTD00000639,TSTD,90000000000,"số 06 Trần Hưng Đạo, Huế.",46.0
+444,GTCG00000248,GTCG,6000000000,,
+445,GTCG00000249,GTCG,10000000000,,
+446,PTVT00002433,PTVT,12000000000,,
+447,BDS00033147,BDS,44257000000,Thị trấn Thuận An,46.0
+448,TSBDK00001106,Khac,16000000000,,
+449,PTVT00002432,PTVT,9620000000,,
+450,GTCG00000296,GTCG,700000000,,
+451,BDS00033912,BDS,2878000000,"97 Nơ Trang Long, P.11, Q Bình Thạnh, tp HCM",79.0
+452,BDS00033914,BDS,6270000000,"Thửa đất 1/229 KBT Phú Gia H21,22,27,28, số 01 Hà Huy Tập, Tân Phong, Quận 7, TP.HCM",79.0
+453,PTVT00002573,PTVT,1500000000,,
+454,PTVT00002574,PTVT,99030000000,,
+455,PTVT00002575,PTVT,6000000000,,
+456,PTVT00002601,PTVT,2800000000,,
+457,PTVT00002602,PTVT,900000000,,
+458,BDS000043819,BDS,40000000000,"số A7 Phương Mai, phương Phương Mai, quận Đống Đa, TP. Hà Nội",1.0
+459,PTVT000007609,PTVT,15000000000,,
+460,BDS000136339,BDS,8000000000,"Lương Khánh Thiện, Ngô Quyền, Hải Phòng",31.0
+461,BDS000146799,BDS,35000000000,"34 TÔN ĐỨC THẮNG, QUẬN 1, TP HCM",79.0
+462,BDS000146809,BDS,35000000000,"35 TÔN ĐỨC THẮNG, QUẬN 1, TP HCM",80.0
+463,BDS000146819,BDS,25000000000,"36 TÔN ĐỨC THẮNG, QUẬN 1, TP HCM",81.0
+464,PTVT000024339,PTVT,28000000000,,
+465,BDS000331479,BDS,30000000000,Thị trấn Thuận An,46.0
+466,BDS000331489,BDS,35000000000,Thị trấn Thuận An,47.0
+467,TSBDK000011069,Khac,15000000000,,
+468,PTVT000024329,PTVT,15000000000,,
+469,PTVT000025739,PTVT,1450000000,,
+470,PTVT000025759,PTVT,2800000000,,
