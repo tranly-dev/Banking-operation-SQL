@@ -1,0 +1,137 @@
+﻿ID,MA_CHINHANH,TEN_CHINHANH,DIACHI_CHINHANH,MA_THANHPHO,MA_KHUVUC
+1,1302004,NH TMCP VNC  - Chi nhánh Đống Đa,Tôn Đức Thắng - Đống Đa - HN,1,A01
+2,1302001,NH TMCP VNC  - Chi nhánh Sở Giao dịch,22 Kim Mã Thượng - Hà Nội,1,A01
+3,1302002,NH TMCP VNC  - Chi nhánh Thanh Xuân,Nguyễn Trãi - Thanh Xuân - HN,1,A01
+4,1302003,NH TMCP VNC  - Chi nhánh Hoàn Kiếm,Trần Hưng Đạo- Hoàn Kiếm - HN,1,A01
+5,1302005,NH TMCP VNC  - Sở Giao dịch,Lê Thanh Nghị - Hai Bà Trưng - HN,1,A01
+6,1302007,NH TMCP VNC  -Chi nhánh Long Biên,"Nguyễn Văn Linh, Long Biên, Hà Nội",1,A01
+7,1302006,NH TMCP VNC  - Chi nhánh Cầu Giấy,"Quan Hoa, Quận Cầu Giấy, Hà Nội",1,A01
+8,1343001,NH TMCP VNC  - Chi nhánh Hà Nội,"Nam Đồng, Phương Liên, quận Đống Đa, TP Hà Nội",1,A01
+9,1343002,NH TMCP VNC  - Chi nhánh Thăng Long,"Trần Thái Tông, Dịch Vọng, Cầu Giấy, Hà Nội",1,A01
+10,31302002,NH TMCP VNC - Chi nhánh Hồng Bàng,Điện Biên Phủ - Hồng Bàng - HP,11,A03
+11,19302001,NH TMCP VNC  - Chi nhánh Thái Nguyên,"Lương Ngọc Quyến, phường Quang Trung, TP. Thái Nguyên, tỉnh Thái Nguyên",19,A03
+12,22302003,NH TMCP VNC  - Chi nhánh Cẩm Phả,"Cẩm Phả, Quảng Ninh",22,A03
+13,22302001,NH TMCP VNC - Chi nhánh Quảng Ninh,"phường Bãi Cháy, TP Hạ Long, tỉnh Quảng Ninh  ",22,A03
+14,22302002,NH TMCP VNC  - Chi nhánh Hạ Long,Lê Thánh Tông - Hạ Long - QN  ,22,A03
+15,24302001,NH TMCP VNC  - Chi nhánh Bắc Giang,"Phường Hoàng Văn Thụ, TP Bắc Giang, tỉnh Bắc Giang",24,A03
+16,25302001,NH TMCP VNC  - Chi nhánh Phú Thọ,"Hùng Vương, phường Gia Cẩm, TP Việt Trì, tỉnh Phú Thọ",25,A03
+17,26302001,NH TMCP VNC  - CN Vĩnh Phúc,"Vĩnh Yên, Vĩnh Phúc",26,A03
+18,27302001,NH TMCP VNC  - Chi nhánh Bắc Ninh,"Lê Văn Tám, phường Tiền An, TP Bắc Ninh",27,A03
+19,31302001,NH TMCP VNC  - Chi nhánh Nguyễn Tri Phương,Hồng Bàng - HP,31,A03
+20,31343001,NH TMCP VNC  - Chi nhánh Hải Phòng,"Hoàng Văn Thụ, Hồng Bàng, Hải Phòng",31,A03
+21,34302001,NH TMCP VNC  - CN Thái Bình,Lê Văn Tám - Phường 10 - Thành phố Thái Bình,34,A03
+22,36302001,NH TMCP VNC  - Chi nhánh Lê Hồng Phong,"Trần Hưng Đạo, TP Nam Định, Nam Định",36,A03
+23,37302001,NH TMCP VNC  - Chi nhánh Ninh Bình,"Vân Giang TP Ninh Bình, tỉnh Ninh Bình",37,A03
+24,38302001,NH TMCP VNC  - CHI NHÁNH THANH HOÁ,"Lam Sơn, thành phố Thanh Hoá, tỉnh Thanh Hoá",38,A04
+25,40302001,NH TMCP VNC  -CHI NHÁNH NGHỆ AN,Thành phố Vinh Tỉnh Nghệ An,40,A04
+26,42302001,NH TMCP VNC  - Chi nhánh Hà Tĩnh,"Trần Phú, phường Bắc Hà, TP Hà Tĩnh",42,A04
+27,44302001,NH TMCP VNC  - Chi nhánh Quảng Bình,"Số 46 Lý Thường Kiệt, phường Đồng Phú, TP Đồng Hới tỉnh Quảng Bình",44,A05
+28,46302001,NH TMCP VNC  - Chi nhánh Huế,"Lê Lợi, phường Phú Hội, TP Huế",46,A05
+29,31302003,NH TMCP VNC  - Chi nhánh Ngô Quyền,Đà Nẵng,48,A05
+30,48302002,NH TMCP VNC  - Phòng Giao dịch Hoà Bình,"Điện Biên Phủ, TP Đà Nẵng",48,A05
+31,48302001,NH TMCP VNC  - Đà Nẵng,Lê Duẩn - Hải Châu - TP. Đà Nẵng,48,A05
+32,48343001,NH TMCP VNC  - Chi nhánh Đà nẵng,"Lê Duẩn , Quận Hải Châu, Thành Phố Đà nẵng",48,A05
+33,49302001,NH TMCP VNC  - Chi nhánh Quảng Nam,"Phường Tân Thạnh, TP Tam Kỳ, tỉnh Quảng Nam",49,A05
+34,52302001,NH TMCP VNC  - Chi nhánh Bình Định,"Phường Lý Thường Kiệt, TP Quy Nhơn, tỉnh Bình Định",52,A05
+35,54302001,NH TMCP VNC  - Chi nhánh Phú Yên,"Trần Hưng Đạo,TP Tuy Hòa, tỉnh Phú Yên",54,A05
+36,56302001,NH TMCP VNC  - Nha Trang,Nha Trang - Khánh Hoà,56,A05
+37,56343001,NH TMCP VNC  - Chi nhánh Khánh Hòa,"Quang Trung , Phường Lộc Thọ , Thành Phố Khánh Hòa",56,A05
+38,60302001,NH TMCP VNC  - Chi nhánh Bình Thuận,"Phú Thủy, TP Phan Thiết, tỉnh Bình Thuận",60,A05
+39,66302001,NH TMCP VNC  - Chi nhánh Đăk Lăk,"phường Tân Tiến, TP Buôn Mê Thuột, tỉnh Đăk Lăk",66,A06
+40,68302001,NH TMCP VNC  - Chi nhánh Lâm Đồng,"phường 2 TP Đà Lạt, tỉnh Lâm Đồng",68,A06
+41,68343001,NH TMCP VNC  - Chi nhánh Lâm Đồng,Trần Phú -  TP Đà Lạt - Lâm Đồng,68,A06
+42,72302001,NH TMCP VNC  - Chi nhánh Tây Ninh,"Đường Cách Mạng Tháng 8, phường 3, thị xã Tây Ninh, Tỉnh Tây Ninh",72,A07
+43,74302001,NH TMCP VNC  - chi nhánh tỉnh Bình Dương,Phường 1 - Thủ Dầu Một - Bình Dương,74,A07
+44,74343001,NH TMCP VNC  - Chi nhánh Bình Dương,"Đường Chiến Thắng, phường Chánh Nghĩa, T/X Thủ Dầu Một, tỉnh Bình Dương",74,A07
+45,75302001,NH TMCP VNC  - Chi nhánh Đồng Nai,"đường Phạm Văn Thuận, Tân Mai, Tp.Biên Hòa, tỉnh Đồng Nai",75,A07
+46,77302001,NH TMCP VNC  - Vũng Tầu,Nam kỳ Khởi nghĩa - TP. Vũng Tàu,77,A07
+47,79302001,NH TMCP VNC  - Chi nhánh HCM,Quận I - TP. HCM  ,79,A07
+48,79302002,NH TMCP VNC  - Chi nhánh Tân Bình,Quận 2 - TP. HCM,79,A07
+49,79302003,NH TMCP VNC  - Chi nhánh Đô Thành,Quận 3 TP Hồ Chí Minh,79,A07
+50,79302005,NH TMCP VNC  - Chi nhánh Tân Bình 2,"Tân Bình, Thành phố Hồ Chí Minh",79,A07
+51,79302004,NH TMCP VNC  - Chi nhánh Sài Gòn,Q. 10 - TP. HCM,79,A07
+52,30302001,NH TMCP VNC  - Chi nhánh Hải Dương,phường Nguyễn Trãi TP Hải Dương,79,A03
+53,79343002,NH TMCP VNC  - Chi nhánh Sài Gòn,"Phạm Ngọc Thạch, phường 6 quận 3 Tp Hồ Chí Minh",79,A07
+54,79343001,NH TMCP VNC  - Chi nhánh TP Hồ Chí Minh,"Cách mạng tháng tám, phường 6 quận Tân Bình, TP Hồ chí Minh",79,A07
+55,80302001,NH TMCP VNC  - Chi nhánh Long An,"Trương Định, phường 1 TP Tân An tỉnh Long An",80,A08
+56,80343001,NH TMCP VNC  - Chi nhánh Long An, Phường 6 - TP Tân An - tỉnh Long An,80,A08
+57,82302001,NH TMCP VNC  - Chi nhánh Tiền Giang,"Nam Kỳ Khởi Nghĩa phường 4 TP Mỹ Tho, Tiền Giang",82,A08
+58,87343001,NH TMCP VNC  - Chi nhánh Sa Đéc,"Khóm 2, T/X Sa Đéc, tỉnh Đồng Tháp",87,A08
+59,89343003,NH TMCP VNC  - Chi nhánh Châu Đốc,"Đường Nguyễn Tri Phương, T/X Châu Đốc tình An Giang",89,A08
+60,89343002,NH TMCP VNC - Chi nhánh Long Xuyên,"Trần Hưng Đạo, phường Mỹ Bình, TP Long Xuyên, tỉnh An Giang",89,A08
+61,89343001,NH TMCP VNC - Chi nhánh An Giang,"TrầnQuốc Toản - TP Long Xuyên, tỉnh An Giang",89,A08
+62,91302001,NH TMCP VNC  - Chi nhánh Kiên Giang,"Điện Biên Phủ, phường Vĩnh Quang, TP Rạch Giá, tỉnh Kiên Giang",91,A08
+63,91343001,NH TMCP VNC  - Chi nhánh Kiên Giang,"Phường Vĩnh Thanh, TP Rạch Giá, tỉnh Kiên Giang",91,A08
+64,92302001,NH TMCP VNC  -Chi nhánh Cần Thơ,Số 10 - Phan Đình Giót - Ninh Kiều - CT,92,A08
+65,92343001,NH TMCP VNC  - Chi nhánh Cần Thơ,"Trần Hưng Đạo, phường An Phú, quận Ninh Kiều, TP Cần Thơ",92,A08
+66,96343001,NH TMCP VNC  - Chi nhánh Cà Mau,"Lý Thái Tổ, phường 6, Tp.Cà Mau",96,A08
+67,35302001,NH TMCP VNC  - Chi nhánh Hà Nam,"Phố Cà, TP Phủ Lý, tỉnh Hà Nam",99,A03
+68,75343001,NH TMCP VNC  - Chi nhánh Đồng Nai,Trung Dũng - Biên Hòa -Đồng Nai,99,A07
+69,1302004,NH TMCP VNC  - Chi nhánh Đống Đa,Tôn Đức Thắng - Đống Đa - HN,1,A01
+70,1302001,NH TMCP VNC  - Chi nhánh Sở Giao dịch,22 Kim Mã Thượng - Hà Nội,1,A01
+71,1302002,NH TMCP VNC  - Chi nhánh Thanh Xuân,Nguyễn Trãi - Thanh Xuân - HN,1,A01
+72,1302003,NH TMCP VNC  - Chi nhánh Hoàn Kiếm,Trần Hưng Đạo- Hoàn Kiếm - HN,1,A01
+73,1302005,NH TMCP VNC  - Sở Giao dịch,Lê Thanh Nghị - Hai Bà Trưng - HN,1,A01
+74,1302007,NH TMCP VNC  -Chi nhánh Long Biên,"Nguyễn Văn Linh, Long Biên, Hà Nội",1,A01
+75,1302006,NH TMCP VNC  - Chi nhánh Cầu Giấy,"Quan Hoa, Quận Cầu Giấy, Hà Nội",1,A01
+76,1343001,NH TMCP VNC  - Chi nhánh Hà Nội,"Nam Đồng, Phương Liên, quận Đống Đa, TP Hà Nội",1,A01
+77,1343002,NH TMCP VNC  - Chi nhánh Thăng Long,"Trần Thái Tông, Dịch Vọng, Cầu Giấy, Hà Nội",1,A01
+78,31302002,NH TMCP VNC - Chi nhánh Hồng Bàng,Điện Biên Phủ - Hồng Bàng - HP,11,A03
+79,19302001,NH TMCP VNC  - Chi nhánh Thái Nguyên,"Lương Ngọc Quyến, phường Quang Trung, TP. Thái Nguyên, tỉnh Thái Nguyên",19,A03
+80,22302003,NH TMCP VNC  - Chi nhánh Cẩm Phả,"Cẩm Phả, Quảng Ninh",22,A03
+81,22302001,NH TMCP VNC - Chi nhánh Quảng Ninh,"phường Bãi Cháy, TP Hạ Long, tỉnh Quảng Ninh  ",22,A03
+82,22302002,NH TMCP VNC  - Chi nhánh Hạ Long,Lê Thánh Tông - Hạ Long - QN  ,22,A03
+83,24302001,NH TMCP VNC  - Chi nhánh Bắc Giang,"Phường Hoàng Văn Thụ, TP Bắc Giang, tỉnh Bắc Giang",24,A03
+84,25302001,NH TMCP VNC  - Chi nhánh Phú Thọ,"Hùng Vương, phường Gia Cẩm, TP Việt Trì, tỉnh Phú Thọ",25,A03
+85,26302001,NH TMCP VNC  - CN Vĩnh Phúc,"Vĩnh Yên, Vĩnh Phúc",26,A03
+86,27302001,NH TMCP VNC  - Chi nhánh Bắc Ninh,"Lê Văn Tám, phường Tiền An, TP Bắc Ninh",27,A03
+87,31302001,NH TMCP VNC  - Chi nhánh Nguyễn Tri Phương,Hồng Bàng - HP,31,A03
+88,31343001,NH TMCP VNC  - Chi nhánh Hải Phòng,"Hoàng Văn Thụ, Hồng Bàng, Hải Phòng",31,A03
+89,34302001,NH TMCP VNC  - CN Thái Bình,Lê Văn Tám - Phường 10 - Thành phố Thái Bình,34,A03
+90,36302001,NH TMCP VNC  - Chi nhánh Lê Hồng Phong,"Trần Hưng Đạo, TP Nam Định, Nam Định",36,A03
+91,37302001,NH TMCP VNC  - Chi nhánh Ninh Bình,"Vân Giang TP Ninh Bình, tỉnh Ninh Bình",37,A03
+92,38302001,NH TMCP VNC  - CHI NHÁNH THANH HOÁ,"Lam Sơn, thành phố Thanh Hoá, tỉnh Thanh Hoá",38,A04
+93,40302001,NH TMCP VNC  -CHI NHÁNH NGHỆ AN,Thành phố Vinh Tỉnh Nghệ An,40,A04
+94,42302001,NH TMCP VNC  - Chi nhánh Hà Tĩnh,"Trần Phú, phường Bắc Hà, TP Hà Tĩnh",42,A04
+95,44302001,NH TMCP VNC  - Chi nhánh Quảng Bình,"Số 46 Lý Thường Kiệt, phường Đồng Phú, TP Đồng Hới tỉnh Quảng Bình",44,A05
+96,46302001,NH TMCP VNC  - Chi nhánh Huế,"Lê Lợi, phường Phú Hội, TP Huế",46,A05
+97,31302003,NH TMCP VNC  - Chi nhánh Ngô Quyền,Đà Nẵng,48,A05
+98,48302002,NH TMCP VNC  - Phòng Giao dịch Hoà Bình,"Điện Biên Phủ, TP Đà Nẵng",48,A05
+99,48302001,NH TMCP VNC  - Đà Nẵng,Lê Duẩn - Hải Châu - TP. Đà Nẵng,48,A05
+100,48343001,NH TMCP VNC  - Chi nhánh Đà nẵng,"Lê Duẩn , Quận Hải Châu, Thành Phố Đà nẵng",48,A05
+101,49302001,NH TMCP VNC  - Chi nhánh Quảng Nam,"Phường Tân Thạnh, TP Tam Kỳ, tỉnh Quảng Nam",49,A05
+102,52302001,NH TMCP VNC  - Chi nhánh Bình Định,"Phường Lý Thường Kiệt, TP Quy Nhơn, tỉnh Bình Định",52,A05
+103,54302001,NH TMCP VNC  - Chi nhánh Phú Yên,"Trần Hưng Đạo,TP Tuy Hòa, tỉnh Phú Yên",54,A05
+104,56302001,NH TMCP VNC  - Nha Trang,Nha Trang - Khánh Hoà,56,A05
+105,56343001,NH TMCP VNC  - Chi nhánh Khánh Hòa,"Quang Trung , Phường Lộc Thọ , Thành Phố Khánh Hòa",56,A05
+106,60302001,NH TMCP VNC  - Chi nhánh Bình Thuận,"Phú Thủy, TP Phan Thiết, tỉnh Bình Thuận",60,A05
+107,66302001,NH TMCP VNC  - Chi nhánh Đăk Lăk,"phường Tân Tiến, TP Buôn Mê Thuột, tỉnh Đăk Lăk",66,A06
+108,68302001,NH TMCP VNC  - Chi nhánh Lâm Đồng,"phường 2 TP Đà Lạt, tỉnh Lâm Đồng",68,A06
+109,68343001,NH TMCP VNC  - Chi nhánh Lâm Đồng,Trần Phú -  TP Đà Lạt - Lâm Đồng,68,A06
+110,72302001,NH TMCP VNC  - Chi nhánh Tây Ninh,"Đường Cách Mạng Tháng 8, phường 3, thị xã Tây Ninh, Tỉnh Tây Ninh",72,A07
+111,74302001,NH TMCP VNC  - chi nhánh tỉnh Bình Dương,Phường 1 - Thủ Dầu Một - Bình Dương,74,A07
+112,74343001,NH TMCP VNC  - Chi nhánh Bình Dương,"Đường Chiến Thắng, phường Chánh Nghĩa, T/X Thủ Dầu Một, tỉnh Bình Dương",74,A07
+113,75302001,NH TMCP VNC  - Chi nhánh Đồng Nai,"đường Phạm Văn Thuận, Tân Mai, Tp.Biên Hòa, tỉnh Đồng Nai",75,A07
+114,77302001,NH TMCP VNC  - Vũng Tầu,Nam kỳ Khởi nghĩa - TP. Vũng Tàu,77,A07
+115,79302001,NH TMCP VNC  - Chi nhánh HCM,Quận I - TP. HCM  ,79,A07
+116,79302002,NH TMCP VNC  - Chi nhánh Tân Bình,Quận 2 - TP. HCM,79,A07
+117,79302003,NH TMCP VNC  - Chi nhánh Đô Thành,Quận 3 TP Hồ Chí Minh,79,A07
+118,79302005,NH TMCP VNC  - Chi nhánh Tân Bình 2,"Tân Bình, Thành phố Hồ Chí Minh",79,A07
+119,79302004,NH TMCP VNC  - Chi nhánh Sài Gòn,Q. 10 - TP. HCM,79,A07
+120,30302001,NH TMCP VNC  - Chi nhánh Hải Dương,phường Nguyễn Trãi TP Hải Dương,79,A03
+121,79343002,NH TMCP VNC  - Chi nhánh Sài Gòn,"Phạm Ngọc Thạch, phường 6 quận 3 Tp Hồ Chí Minh",79,A07
+122,79343001,NH TMCP VNC  - Chi nhánh TP Hồ Chí Minh,"Cách mạng tháng tám, phường 6 quận Tân Bình, TP Hồ chí Minh",79,A07
+123,80302001,NH TMCP VNC  - Chi nhánh Long An,"Trương Định, phường 1 TP Tân An tỉnh Long An",80,A08
+124,80343001,NH TMCP VNC  - Chi nhánh Long An, Phường 6 - TP Tân An - tỉnh Long An,80,A08
+125,82302001,NH TMCP VNC  - Chi nhánh Tiền Giang,"Nam Kỳ Khởi Nghĩa phường 4 TP Mỹ Tho, Tiền Giang",82,A08
+126,87343001,NH TMCP VNC  - Chi nhánh Sa Đéc,"Khóm 2, T/X Sa Đéc, tỉnh Đồng Tháp",87,A08
+127,89343003,NH TMCP VNC  - Chi nhánh Châu Đốc,"Đường Nguyễn Tri Phương, T/X Châu Đốc tình An Giang",89,A08
+128,89343002,NH TMCP VNC - Chi nhánh Long Xuyên,"Trần Hưng Đạo, phường Mỹ Bình, TP Long Xuyên, tỉnh An Giang",89,A08
+129,89343001,NH TMCP VNC - Chi nhánh An Giang,"TrầnQuốc Toản - TP Long Xuyên, tỉnh An Giang",89,A08
+130,91302001,NH TMCP VNC  - Chi nhánh Kiên Giang,"Điện Biên Phủ, phường Vĩnh Quang, TP Rạch Giá, tỉnh Kiên Giang",91,A08
+131,91343001,NH TMCP VNC  - Chi nhánh Kiên Giang,"Phường Vĩnh Thanh, TP Rạch Giá, tỉnh Kiên Giang",91,A08
+132,92302001,NH TMCP VNC  -Chi nhánh Cần Thơ,Số 10 - Phan Đình Giót - Ninh Kiều - CT,92,A08
+133,92343001,NH TMCP VNC  - Chi nhánh Cần Thơ,"Trần Hưng Đạo, phường An Phú, quận Ninh Kiều, TP Cần Thơ",92,A08
+134,96343001,NH TMCP VNC  - Chi nhánh Cà Mau,"Lý Thái Tổ, phường 6, Tp.Cà Mau",96,A08
+135,35302001,NH TMCP VNC  - Chi nhánh Hà Nam,"Phố Cà, TP Phủ Lý, tỉnh Hà Nam",99,A03
+136,75343001,NH TMCP VNC  - Chi nhánh Đồng Nai,Trung Dũng - Biên Hòa -Đồng Nai,99,A07
