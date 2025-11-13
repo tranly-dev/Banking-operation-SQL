@@ -1,0 +1,14 @@
+﻿ID,MA_LOAIHINH_DOANHNGHIEP,TEN_LOAIHINH_DOANHNGHIEP
+1,1,Công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ
+2,2,Công ty trách nhiệm hữu hạn hai thành viên trở lên do Nhà nước nắm giữ trên 50% vốn điều lệ hoặc tổng số cổ phần có quyền biểu quyết
+3,3,Công ty trách nhiệm hữu hạn khác
+4,4,"Công ty cổ phần do Nhà nước nắm giữ trên 50% vốn điều lệ, tổng số cổ phần có quyền biểu quyết"
+5,5,Công ty cổ phần khác
+6,6,Công ty hợp danh
+7,7,Doanh nghiệp tư nhân
+8,81,Công ty trách nhiệm hữu hạn có vốn đầu tư nước ngoài
+9,82,Công ty cổ phần có vốn đầu tư nước ngoài
+10,83,Công ty hợp danh có vốn đầu tư nước ngoài
+11,9,"Hợp tác xã, liên hiệp hợp tác xã"
+12,10,"Đơn vị hành chính sự nghiệp, đảng, đoàn thể và hiệp hội"
+13,11,Khác

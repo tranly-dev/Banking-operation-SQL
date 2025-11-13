@@ -1,0 +1,33 @@
+﻿MASP,TENSP,LOAISP,TRANGTHAI,NGAYMO,NGAYDONG
+CVKD-Nhom 2,Cho vay khách hàng kinh doanh nhóm 2,CV KH nguồn thu KD,Open,4/7/2023,NULL
+CVKD-Nhom 1,Cho vay khách hàng kinh doanh nhóm 1,CV KH nguồn thu KD,Open,4/7/2023,NULL
+CVKD-Nhom 3,Cho vay khách hàng kinh doanh nhóm 3,CV KH nguồn thu KD,Open,4/7/2023,NULL
+CT-CVKD Cho  ,Cho vay khách hàng có nguồn thu từ hoạt động kinh doanh tại Chợ,CV KH nguồn thu KD,Open,10/12/2023,NULL
+KHDN,Cho vay KHÁCH HÀNG DOANH NGHIỆP,CV KHDN,Open,4/22/2022,NULL
+CVCN VIP,Cho vay cá nhân VIP,CVCN VIP,Open,12/28/2021,NULL
+CVTD NHNN1,CVTD có dư nợ tại Ngân hàng NN & PTNT 1,Dư nợ NHNN,Open,10/7/2021,NULL
+CVTD NHNN2,CVTD có dư nợ tại Ngân hàng NN & PTNT 2,Dư nợ NHNN,Open,9/22/2021,NULL
+CVTD NHNN3,CVTD có dư nợ tại Ngân hàng NN & PTNT 3,Dư nợ NHNN,Open,10/22/2021,NULL
+CVLUONG1,CVTD có nguồn thu từ lương nhóm 1,Lương,Open,3/22/2021,NULL
+CVLUONG2,CVTD có nguồn thu từ lương nhóm 2,Lương,Open,3/25/2021,NULL
+CVLUONG3,CVTD có nguồn thu từ lương nhóm 3,Lương,Open,4/20/2021,NULL
+CVLUONG4,CVTD có nguồn thu từ lương nhóm 4,Lương,Open,11/12/2021,NULL
+CVSOHUUDBS1,Cho vay khách hàng có sở hữu Bất động sản nhóm 1,SH BĐS,Open,9/29/2020,NULL
+CVSOHUUDBS2,Cho vay khách hàng có sở hữu Bất động sản nhóm 2,SH BĐS,Open,9/30/2020,NULL
+CVSOHUUDBS3,Cho vay khách hàng có sở hữu Bất động sản nhóm 3,SH BĐS,Open,9/29/2020,NULL
+CVSOHUUDBS4,Cho vay khách hàng có sở hữu Bất động sản nhóm 4,SH BĐS,Open,9/30/2020,NULL
+CVSOHUUDBS5,Cho vay khách hàng có sở hữu Bất động sản nhóm 5,SH BĐS,Open,9/29/2020,NULL
+CV SOHUU BDS,Cho vay khách hàng sở hữu Bất động sản,SH BĐS,Open,5/7/2020,NULL
+CVTD01,CVTD nhóm 1,SP thường,Closed,11/7/2019,1/29/2021
+CVTD02,CVTD nhóm 2,SP thường,Closed,11/15/2019,3/11/2021
+CVTD03,CVTD nhóm 3,SP thường,Closed,11/7/2019,3/25/2021
+CVTD04,CVTD nhóm 4,SP thường,Closed,11/6/2019,3/22/2021
+LUONGNGANSACH,Cho vay khách hàng có nguồn thu từ lương ngân sách nhà nước,Lương,Open,6/7/2023,NULL
+CV_KHTT,Cho vay khách hàng thân thiết,KH thân thiết,Open,11/3/2023,NULL
+CVTD-TAICAP1,Cơ chế tái cấp cho khách hàng nhóm 1,Tái cấp&TOPUP,Open,11/21/2023,NULL
+CVTD-TAICAP2,Cơ chế tái cấp cho khách hàng nhóm 2,Tái cấp&TOPUP,Open,11/21/2023,NULL
+CVTD-TAICAP3,Cơ chế tái cấp cho khách hàng nhóm 3,Tái cấp&TOPUP,Open,11/21/2023,NULL
+CREDIT_MONEY 1,Cho vay tiêu dùng theo hạn mức thẻ tín dụng nhóm 1,Dư nợ TTD,Open,9/13/2024,NULL
+CREDIT_MONEY 2,Cho vay tiêu dùng theo hạn mức thẻ tín dụng nhóm 2,Dư nợ TTD,Open,9/13/2024,NULL
+CREDIT_MONEY 3,Cho vay tiêu dùng theo hạn mức thẻ tín dụng nhóm 3,Dư nợ TTD,Open,9/13/2024,NULL
+CREDIT_MONEY 4,Cho vay tiêu dùng theo hạn mức thẻ tín dụng nhóm 4,Dư nợ TTD,Open,9/13/2024,NULL

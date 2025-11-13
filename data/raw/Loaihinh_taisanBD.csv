@@ -1,0 +1,62 @@
+﻿MA_CAP1,TEN_LOAIHINH_CAP1,MA_CAP2,TEN_LOAIHINH_CAP2,MA_CAP3,TEN_LOAIHINH_CAP3,MA_CAP4,TEN_LOAIHINH_CAP4,MA_LOAIHINH_TSBD
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,1,Tiền mặt và tiền gửi trên tài khoản tiền gửi tại TCTD,,,,,100
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,2,Giấy tờ có giá,2.1,"Sổ, thẻ tiết kiệm",,,201
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,2,Giấy tờ có giá,2.2,"Chứng chỉ tiền gửi, hợp đồng tiền gửi",,,202
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,2,Giấy tờ có giá,2.3,"Trái phiếu do Chính phủ, Ngân hàng Nhà nước, Bộ Tài chính phát hành, Trái phiếu chính quyền địa phương phát hành",,,203
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,2,Giấy tờ có giá,2.4,Trái phiếu do TCTD phát hành,2.4.1,Trái phiếu do TCTD báo cáo phát hành,2041
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,2,Giấy tờ có giá,2.4,Trái phiếu do TCTD phát hành,2.4.2,Trái phiếu do TCTD khác phát hành,2042
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,2,Giấy tờ có giá,2.5,,,,
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,2,Giấy tờ có giá,2.5,Trái phiếu do tổ chức (không bao gồm TCTD) phát hành,2.5.1,Trái phiếu do doanh nghiệp phát hành,2051
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,2,Giấy tờ có giá,2.5,Trái phiếu do tổ chức (không bao gồm TCTD) phát hành,2.5.2,Trái phiếu do công ty con của TCTD báo cáo phát hành,2052
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,2,Giấy tờ có giá,2.5,Trái phiếu do tổ chức (không bao gồm TCTD) phát hành,2.5.3,Trái phiếu khác,2053
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,2,Giấy tờ có giá,2.6,,,,
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,2,Giấy tờ có giá,2.6,Cổ phiếu,2.6.1,Cổ phiếu do các TCTD phát hành,2061
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,2,Giấy tờ có giá,2.6,Cổ phiếu,2.6.2,Cổ phiếu do các doanh nghiệp (không bao gồm TCTD) phát hành,2062
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,2,Giấy tờ có giá,2.6,Cổ phiếu,2.6.3,Chứng chỉ quỹ,2063
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,2,Giấy tờ có giá,2.7,Các loại giấy tờ có giá khác,,,207
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,3,"Máy móc, thiết bị, phương tiện vận tải, nguyên liệu, nhiên liệu, vật liệu, hàng tiêu dùng, kim khí quý, đá quý và các vật có giá trị khác",3.1,"Kim khí quý, đá quý và các vật có giá trị khác (vàng)",,,301
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,3,"Máy móc, thiết bị, phương tiện vận tải, nguyên liệu, nhiên liệu, vật liệu, hàng tiêu dùng, kim khí quý, đá quý và các vật có giá trị khác",3.2,Máy móc thiết bị,3.2.1,Máy móc chuyên dùng,3021
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,3,"Máy móc, thiết bị, phương tiện vận tải, nguyên liệu, nhiên liệu, vật liệu, hàng tiêu dùng, kim khí quý, đá quý và các vật có giá trị khác",3.2,Máy móc thiết bị,3.2.2,"Máy móc thiết bị thông thường, phổ biến",3022
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,3,"Máy móc, thiết bị, phương tiện vận tải, nguyên liệu, nhiên liệu, vật liệu, hàng tiêu dùng, kim khí quý, đá quý và các vật có giá trị khác",3.2,Máy móc thiết bị,3.2.3,Dây chuyền sản xuất,3023
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,3,"Máy móc, thiết bị, phương tiện vận tải, nguyên liệu, nhiên liệu, vật liệu, hàng tiêu dùng, kim khí quý, đá quý và các vật có giá trị khác",3.3,"Nguyên liệu, nhiên liệu, vật liệu",,,303
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,3,"Máy móc, thiết bị, phương tiện vận tải, nguyên liệu, nhiên liệu, vật liệu, hàng tiêu dùng, kim khí quý, đá quý và các vật có giá trị khác",3.4,Bán thành phẩm,,,304
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,3,"Máy móc, thiết bị, phương tiện vận tải, nguyên liệu, nhiên liệu, vật liệu, hàng tiêu dùng, kim khí quý, đá quý và các vật có giá trị khác",3.5,"Hàng hóa, thành phẩm",,,305
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,4,Bất động sản,4.1,"Nhà, đất ở",4.1.1,"Căn hộ chung cư, tập thể",4011
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,4,Bất động sản,4.1,"Nhà, đất ở",4.1.1,"Nhà, đất ở khác",4012
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,4,Bất động sản,4.2,Quyền sử dụng đất nông nghiệp và tài sản gắn liền với đất,,,402
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,4,Bất động sản,4.3,Quyền sử dụng đất khu công nghiệp/khu chế xuất/khu công nghệ cao và/hoặc tài sản gắn liền với đất (nếu có) ,,,403
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,4,Bất động sản,4.4,Quyền sử dụng đất khu đô thị và/hoặc tài sản gắn liền với đất:,4.4.1,#NAME?,4041
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,3,"Máy móc, thiết bị, phương tiện vận tải, nguyên liệu, nhiên liệu, vật liệu, hàng tiêu dùng, kim khí quý, đá quý và các vật có giá trị khác",3.6,Phương tiện vận tải,3.6.1,"Ô tô chở người (ô tô khách, ô tô buýt, ô tô du lịch, ô tô con), bán tải, chở hàng",3061
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,3,"Máy móc, thiết bị, phương tiện vận tải, nguyên liệu, nhiên liệu, vật liệu, hàng tiêu dùng, kim khí quý, đá quý và các vật có giá trị khác",3.6,Phương tiện vận tải,3.6.2,Xe máy chuyên dùng,3062
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,3,"Máy móc, thiết bị, phương tiện vận tải, nguyên liệu, nhiên liệu, vật liệu, hàng tiêu dùng, kim khí quý, đá quý và các vật có giá trị khác",3.6,Phương tiện vận tải,3.6.3,Mô tô (2 bánh/3 bánh),3063
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,3,"Máy móc, thiết bị, phương tiện vận tải, nguyên liệu, nhiên liệu, vật liệu, hàng tiêu dùng, kim khí quý, đá quý và các vật có giá trị khác",3.6,Phương tiện vận tải,3.6.4,Tàu biển,3064
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,3,"Máy móc, thiết bị, phương tiện vận tải, nguyên liệu, nhiên liệu, vật liệu, hàng tiêu dùng, kim khí quý, đá quý và các vật có giá trị khác",3.6,Phương tiện vận tải,3.6.5,Tàu bay ,3065
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,3,"Máy móc, thiết bị, phương tiện vận tải, nguyên liệu, nhiên liệu, vật liệu, hàng tiêu dùng, kim khí quý, đá quý và các vật có giá trị khác",3.6,Phương tiện vận tải,3.6.6,Phương tiện vận tải đường sắt,3066
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,3,"Máy móc, thiết bị, phương tiện vận tải, nguyên liệu, nhiên liệu, vật liệu, hàng tiêu dùng, kim khí quý, đá quý và các vật có giá trị khác",3.6,Phương tiện vận tải,3.6.7,Phương tiện vận tải khác,3067
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,4,Bất động sản,4.4,Quyền sử dụng đất khu đô thị và/hoặc tài sản gắn liền với đất:,4.4.2,#NAME?,4042
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,4,Bất động sản,4.5,"Quyền sử dụng đất và/hoặc tài sản gắn liền với đất của chủ đầu tư xây dựng khu chung cư, tập thể",,,405
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,4,Bất động sản,4.6,Quyền sử dụng đất và/hoặc tài sản gắn liền với đất xây dựng trung tâm thương mại,,,406
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,4,Bất động sản,4.7,"Quyền sử dụng đất và/hoặc tài sản gắn liền với đất xây dựng khách sạn, nhà hàng",,,407
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,4,Bất động sản,4.8,"Quyền sử dụng đất và/hoặc tài sản gắn liền với đất xây dựng chợ, cửa hàng",,,408
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,4,Bất động sản,4.9,Quyền sử dụng đất và/hoặc tài sản gắn liền với đất làm mặt bằng sản xuất kinh doanh,,,409
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,4,Bất động sản,4.1,Quyền sử dụng đất và/hoặc tài sản gắn liền với đất khác,,,410
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,5,Quyền tài sản,5.1,Quyền khai thác tài nguyên thiên nhiên,,,501
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,5,Quyền tài sản,5.2,Quyền đối với phần vốn góp trong doanh nghiệp,,,502
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,5,Quyền tài sản,5.3,Quyền đòi nợ (đã hình thành),,,503
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,5,Quyền tài sản,5.4,Quyền tài sản phát sinh từ quyền tác giả,,,504
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,5,Quyền tài sản,5.5,Quyền sở hữu công nghiệp,,,505
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,5,Quyền tài sản,5.6,Quyền được nhận số tiền bảo hiểm,,,506
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,5,Quyền tài sản,5.7,Lợi tức và các quyền phát sinh từ tài sản cầm cố,,,507
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,5,Quyền tài sản,5.8,Các quyền tài sản khác phát sinh từ hợp đồng hoặc từ các căn cứ pháp lý khác,,,508
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,6,Tài sản hình thành trong tương lai ,6.1,Nhà ở hình thành trong tương lai trong dự án đầu tư xây dựng nhà ở,,,601
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,6,Tài sản hình thành trong tương lai ,6.2,Quyền đòi nợ hình thành trong tương lai,,,602
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,6,Tài sản hình thành trong tương lai ,6.3,Tài sản hình thành trong tương lai khác,,,603
+A,LOẠI BẢO ĐẢM BẰNG TÀI SẢN,7,Các tài sản khác ,,,,,700
+B,LOẠI BẢO ĐẢM KHÔNG SỬ DỤNG TÀI SẢN,8,Bảo lãnh,8.1,"Bảo lãnh của Chính phủ, Ngân hàng Nhà nước, Bộ Tài chính",,,801
+B,LOẠI BẢO ĐẢM KHÔNG SỬ DỤNG TÀI SẢN,8,Bảo lãnh,8.2,Bảo lãnh của Chính quyền địa phương,,,802
+B,LOẠI BẢO ĐẢM KHÔNG SỬ DỤNG TÀI SẢN,8,Bảo lãnh,8.3,Bảo lãnh của các tổ chức tài chính quốc tế,,,803
+B,LOẠI BẢO ĐẢM KHÔNG SỬ DỤNG TÀI SẢN,8,Bảo lãnh,8.4,Bảo lãnh của TCTD,,,804
+B,LOẠI BẢO ĐẢM KHÔNG SỬ DỤNG TÀI SẢN,8,Bảo lãnh,8.5,Bảo lãnh của doanh nghiệp (không bao gồm TCTD),,,805
+B,LOẠI BẢO ĐẢM KHÔNG SỬ DỤNG TÀI SẢN,8,Bảo lãnh,8.6,Bảo lãnh của tổ chức khác,,,806
+B,LOẠI BẢO ĐẢM KHÔNG SỬ DỤNG TÀI SẢN,9,Tín chấp,,,,,900
+B,LOẠI BẢO ĐẢM KHÔNG SỬ DỤNG TÀI SẢN,10,Bảo đảm không sử dụng tài sản khác,,,,,999

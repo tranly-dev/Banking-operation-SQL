@@ -1,0 +1,16 @@
+﻿MA_CAP1,TEN_PHUONGTHUC_CAP1,MA_CAP2,TEN_PHUONGTHUC_CAP2,MA_PHUONGTHUC_CHOVAY
+1,Cho vay từng lần,,,11
+2,Cho vay hợp vốn,2.1,Hợp vốn để cho vay,121
+2,Cho vay hợp vốn,2.2,Hợp vốn để bảo lãnh,122
+2,Cho vay hợp vốn,2.3,Hợp vốn để chiết khấu,123
+2,Cho vay hợp vốn,2.4,Hợp vốn để cho thuê tài chính,124
+2,Cho vay hợp vốn,2.5,Hợp vốn để thực hiện bao thanh toán,125
+2,Cho vay hợp vốn,2.6,Hợp vốn để thực hiện việc kết hợp các hình thức cấp tín dụng nêu trên,126
+2,Cho vay hợp vốn,2.7,Hợp vốn để cấp tín dụng theo các hình thức khác,127
+3,Cho vay lưu vụ,,,13
+4,Cho vay theo hạn mức,,,14
+5,Cho vay theo hạn mức cho vay dự phòng,,,15
+6,Cho vay theo hạn mức thấu chi trên tài khoản thanh toán,,,16
+7,Cho vay quay vòng,,,17
+8,Cho vay tuần hoàn,,,18
+9,Phương thức cho vay khác,,,19

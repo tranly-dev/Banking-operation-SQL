@@ -1,0 +1,6 @@
+﻿MASP,TENSP,LOAISP,TRANGTHAI,NGAYMO,NGAYDONG
+CKH.THUONG,Tiền gửi có kỳ hạn khách hàng thường,,Open,10/22/2021,NULL
+CKH.UUTIEN,Tiền gửi có kỳ hạn khách hàng ưu tiên,,Open,3/15/2014,NULL
+CKH.RUTGOCTUNGPHAN,Sản phẩm tiền gửi có kỳ hạn rút gốc từng phần,,Open,3/22/2021,3/31/2024
+COKYHAN.TT,Sản phẩm tiền gửi có kỳ hạn trả trước,,Open,12/1/2023,NULL
+COKYHAN.TS,Sản phẩm tiền gửi có kỳ hạn trả sau,,Open,12/1/2023,NULL
