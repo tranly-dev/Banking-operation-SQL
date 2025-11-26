@@ -1,5 +1,5 @@
-# Banking Operation Analysis
-### Understanding Long-Booking Window with No Deposit policy (2021 - 2025)
+# 📌 Banking Operation Analysis
+## 🏨 Understanding Long-Booking Window with No Deposit policy (2021 - 2025)
 
 - **Author**: Tran Ngo Quang Ly  
 - **Date**: 9/2025  
@@ -10,7 +10,18 @@
  ◦ Power BI: DAX, Calculated columns & measures, Data modeling, Interactive dashboard  
 
 ---
-#### Business Problem  
+### 📖 Background:
+- This dataset represents **real operational data** from a **mid-sized Vietnamese commercial bank** during the high-growth period **2023–2025** — a time when Vietnamese banks aggressively expanded both funding and lending amid rising interest rates and stricter SBV regulations.
+- The bank operates **68 branches/POS** across all 8 economic regions, serving **540+ customers** (retail + SME + corporate), with:
+  - Over **38,000 CASA transactions**
+  - More than **426 active credit contracts** (total outstanding ~VND 2.5 trillion)
+  - Full regulatory classifications: credit purpose (per Circular 41/2021), economic sector (QĐ 27/2018), collateral type, customer segment
+- However, like many Vietnamese banks at that time, the bank was facing critical operational challenges:
+  - **CASA ratio stuck below 25%** while competitors aggressively pushed digital onboarding
+  - **Rapid credit growth** but heavy exposure to real-estate-related lending → increasing regulatory scrutiny
+  - **Data scattered across 20+ CSV files** maintained by different departments → no single source of truth
+  - **Relationship managers had no tool** to quickly spot cross-sell opportunities or monitor VIP client health
+#### 📚 Business Problem  
 Leadership and business units face four critical challenges that require accurate, real-time answers:
 
 1. **Slow deposit growth & high cost of funds**  
@@ -29,7 +40,19 @@ Leadership and business units face four critical challenges that require accurat
    → Relationship managers cannot instantly identify high-potential customers  
    → Missing a true Customer 360° view for targeted offers and retention
 
-#### Project Objective  
+5. **Credit & Risk**  
+- Full loan portfolio breakdown by regulatory purpose, industry (QĐ 27), collateral type  
+- **Customer segmentation** (Retail, SME, Corporate, VIP, Priority)  
+- **Debt group classification** (Nhóm 1–5 according to Circular 02/2017 & 11/2021)  
+- **Overdue payment analysis** – late payment amounts, number of overdue days, overdue customers  
+- Aging report & early warning signals  
+
+6. **Profitability**  
+- **Weighted average lending rate** (lãi suất cho vay bình quân)  
+- Net Interest Margin (NIM) calculation & trend  
+- Interest income/expense forecasting
+
+####🎯 Project Objective  
 Build **one unified Banking Operations Dashboard** that instantly answers the most critical questions:
 
 - How much new funding was mobilized today/last month? How is CASA trending?
@@ -42,10 +65,12 @@ Build **one unified Banking Operations Dashboard** that instantly answers the mo
 
 ---
 
-### Key Features & Insights (Preview)
+###💡 Key Features & Insights (Preview)
 - Real-time CASA ratio & deposit growth tracking
 - Regulatory credit breakdown (Real-estate business, Consumer, Securities, etc.)
 - Branch & regional performance ranking
 - Customer 360° view with cross-sell scoring
 - Net Interest Margin (NIM) calculation and trend analysis
 - Collateral quality analysis (Real estate vs Paper vs Unsecured)
+
+
