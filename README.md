@@ -1,109 +1,51 @@
-# 🏦 Banking Operations Analysis – SQL (Vietnam Banking Dataset)
+# Banking Operation Analysis
+### Understanding Long-Booking Window with No Deposit policy (2021 - 2025)
 
-> **A complete SQL-based data analysis project simulating real banking operations:**  
-> from customer deposits, savings accounts, and loan contracts to forecasting maturities and ranking top customers.
+- **Author**: Tran Ngo Quang Ly  
+- **Date**: 9/2025  
+- **Tools Used**: Python, SQL, Power BI  
+
+ ◦ Python: Pandas, Matplotlib, Seaborn, Scikit-learn, Datetime  
+ ◦ SQL: CTEs, Window Functions, Joins, Aggregate functions  
+ ◦ Power BI: DAX, Calculated columns & measures, Data modeling, Interactive dashboard  
+
+---
+#### Business Problem  
+Leadership and business units face four critical challenges that require accurate, real-time answers:
+
+1. **Slow deposit growth & high cost of funds**  
+   → Low CASA ratio, heavy reliance on long-term fixed deposits → NIM under pressure  
+   → No visibility into which branches/regions/products drive CASA performance
+
+2. **Credit growth quality not fully controlled**  
+   → Loan book grows fast, but structure is unclear: How much is real-estate business lending? Consumer? Securities? Unsecured?  
+   → Concentration risk by industry, purpose, and collateral type is not proactively monitored
+
+3. **No single source of truth across the bank**  
+   → Each department uses separate Excel files → numbers differ 5-10% in management meetings  
+   → Lack of an interactive enterprise-wide dashboard with drill-down capability
+
+4. **Limited cross-sell and VIP customer management**  
+   → Relationship managers cannot instantly identify high-potential customers  
+   → Missing a true Customer 360° view for targeted offers and retention
+
+#### Project Objective  
+Build **one unified Banking Operations Dashboard** that instantly answers the most critical questions:
+
+- How much new funding was mobilized today/last month? How is CASA trending?
+- Current loan portfolio size and breakdown by regulatory purpose & industry
+- Which branches/regions deliver the best CASA and highest-quality lending?
+- Top cross-sell opportunities (high deposits + no loans | high loans + low CASA)
+- Real NIM performance and trend over time
+
+**Dataset**: 540+ customers • 426 credit contracts • 38,000+ CASA transactions • Full branch network & regulatory classifications
 
 ---
 
-## 💼 Project Overview
-
-This project was built to demonstrate practical **SQL data analysis in a banking context** — focusing on **deposits, maturities, and customer insights**.
-
-The dataset and schema are inspired by real Vietnamese banking systems, including customers, branches, savings accounts, and credit contracts.
-
-### 🔍 Key Objectives
-- Design and normalize a **relational database** for banking operations.  
-- Write **analytical SQL queries** using `JOIN`, `CTE`, `WINDOW FUNCTIONS`.  
-- Forecast upcoming **maturity dates** for savings contracts (early 2025).  
-- Identify **Top 3 customers in 2024** by total deposits / net flow.  
-- Compute **weighted-average interest rates** by branch & year.  
-
----
-
-## 🧱 Database Schema
-
-All table creation scripts are stored in [`sql/schema_clean.sql`](./sql/schema_clean.sql).
-
-### 🗂️ Main Tables
-| Table | Description |
-|--------|--------------|
-| `KHACH_HANG` | Customer information (ID, name, DOB, gender, branch, city) |
-| `MA_CHINHANH` | Branch codes and regions |
-| `TIENGUI_TIETKIEM` | Savings accounts and maturity information |
-| `HOPDONG_TINDUNG` | Loan contracts and disbursement data |
-| `TAISAN_BAODAM` | Collateral assets linked to customers |
-| `MA_KHU_VUC`, `MA_THANHPHO` | Area and city master data |
-
----
-
-## 📊 ERD Diagram
-
-```mermaid
-erDiagram
-  MA_LOAIHINH_TSBD {
-    int ID
-    string MA_LOAI
-    string TENLOAI
-  }
-  MA_KHU_VUC {
-    int ID
-    string MA_KHUVUC
-    string TEN_KHUVUC
-  }
-  MA_LOAI_HINH_DOANHNGHIEP {
-    int ID
-    string MA_LOAIHINH
-    string TEN_LOAIHINH
-  }
-  MA_NGANHNGHE {
-    int ID
-    string MA_NGANH
-    string TEN_NGANH
-  }
-  MA_THANHPHO {
-    int ID
-    string MA_TP
-    string TEN_TP
-  }
-  MA_CHINHANH {
-    int ID
-    string MA_CN
-    string TEN_CN
-    string MA_KHUVUC
-  }
-  KHACH_HANG {
-    int MA_KH
-    string TEN_KH
-    date NGAYSINH
-    string GIOITINH
-    string MA_CN
-    string MA_TP
-  }
-  TIENGUI_TIETKIEM {
-    int MA_SO
-    int MA_KH
-    date NGAY_MO_SO
-    date NGAY_DAOHAN
-    decimal SOTIEN_GUI
-    decimal LAISUAT
-  }
-  HOPDONG_TINDUNG {
-    int MA_HOPDONG
-    int MA_KH
-    decimal SOTIEN_GIAINGAN
-    date NGAY_HOPDONG
-    date NGAY_DAOHAN
-    decimal LAISUAT
-  }
-  TAISAN_BAODAM {
-    int MA_TS
-    int MA_KH
-    string LOAI_TS
-    decimal GIATRI_TS
-  }
-
-  KHACH_HANG }o--|| MA_CHINHANH : "thuộc CN"
-  KHACH_HANG }o--|| MA_THANHPHO : "ở TP"
-  TIENGUI_TIETKIEM }o--|| KHACH_HANG : "thuộc KH"
-  HOPDONG_TINDUNG }o--|| KHACH_HANG : "thuộc KH"
-  TAISAN_BAODAM }o--|| KHACH_HANG : "thuộc KH"
+### Key Features & Insights (Preview)
+- Real-time CASA ratio & deposit growth tracking
+- Regulatory credit breakdown (Real-estate business, Consumer, Securities, etc.)
+- Branch & regional performance ranking
+- Customer 360° view with cross-sell scoring
+- Net Interest Margin (NIM) calculation and trend analysis
+- Collateral quality analysis (Real estate vs Paper vs Unsecured)
