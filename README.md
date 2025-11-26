@@ -21,7 +21,7 @@
   - **Rapid credit growth** but heavy exposure to real-estate-related lending → increasing regulatory scrutiny
   - **Data scattered across 20+ CSV files** maintained by different departments → no single source of truth
   - **Relationship managers had no tool** to quickly spot cross-sell opportunities or monitor VIP client health
-#### 📚 Business Problem  
+### 📚 Business Problem  
 Leadership and business units face four critical challenges that require accurate, real-time answers:
 
 1. **Slow deposit growth & high cost of funds**  
@@ -52,7 +52,7 @@ Leadership and business units face four critical challenges that require accurat
 - Net Interest Margin (NIM) calculation & trend  
 - Interest income/expense forecasting
 
-####🎯 Project Objective  
+###🎯 Project Objective  
 Build **one unified Banking Operations Dashboard** that instantly answers the most critical questions:
 
 - How much new funding was mobilized today/last month? How is CASA trending?
