@@ -73,4 +73,32 @@ Build **one unified Banking Operations Dashboard** that instantly answers the mo
 - Net Interest Margin (NIM) calculation and trend analysis
 - Collateral quality analysis (Real estate vs Paper vs Unsecured)
 
+## 🚀 Dataset Description
+
+### 🗂️ Data Source:
+- **Source**:  
+  ◦ Internal core-banking & reporting system of a mid-sized Vietnamese commercial bank  
+  ◦ Real transactional + master data (anonymized)  
+- **Size**:  
+  ◦ 20+ raw CSV files  
+  ◦ > 540 customers (retail + SME + corporate)  
+  ◦ > 38,000 CASA transactions  
+  ◦ > 426 active credit contracts  
+  ◦ > 68 branches/transaction offices across 8 economic regions  
+- **Format**: CSV (UTF-8)  
+- **Time period**: 2023 – 2025 (latest available snapshot: Nov 2025)
+
+### Key Tables Included
+| Table                              | Rows       | Description                                           |
+|------------------------------------|------------|-------------------------------------------------------|
+| `Khach_Hang.xlsx`                  | ~540       | Customer master (CIF, segment, industry, branch)      |
+| `Tiengui_Thanhtoan.csv`            | ~38,000    | CASA daily transactions & balances                    |
+| `Tien_guicokyhan.csv`              | ~186       | Term deposits (fixed maturity)                        |
+| `Tiengui_Tietkiem.csv`             | ~380       | Savings deposits (flexible, Thần Tài, Ong Vàng…)      |
+| `Hop_dong_tindung.csv`             | 426        | All active loan contracts (amount, rate, purpose…)   |
+| `Taisan_baodam.csv`                | ~300       | Collateral registry (real estate, paper, unsecured)  |
+| `MaChiNhanh.csv` + `ThanhPho.csv`  | 68 + 64    | Full branch & province hierarchy                      |
+| Reference tables                   | 15+ files  | Product catalog, economic sector (QĐ 27), credit purpose (Circular 41), etc. |
+
+---
 
